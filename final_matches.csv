@@ -1,0 +1,798 @@
+Rank,Artist,Album,Scrobbles,FR_Artist,FR_Album,Price,Type,Match,ID
+1,"Pavement","Wowee Zowee",771,"Pavement","Wowee Zowee (1995)","5,97Eur / 6,86$","CD",0.75,51014
+2,"Modeselektor","Monkeytown",656,"Modeselektor","Monkeytown (digi)","3,06Eur / 3,51$","CD",0.667,860979
+3,"Pavement","Crooked Rain, Crooked Rain",617,"Pavement","Crooked rain, crooked rain (1994)","3,19Eur / 3,66$","CD",0.75,103590
+4,"Pixies","Trompe le Monde",575,"Pixies","Trompe le Monde (1991, 4AD)","4,64Eur / 5,33$","CD",0.667,55841
+5,"Arcade Fire","Reflektor",557,"Arcade Fire","Reflektor (2013, card)","6,14Eur / 7,06$","2CD",0.6,847256
+6,"Arcade Fire","The Suburbs",518,"Arcade Fire","Suburbs (foc-cardsleeve)","3,1Eur / 3,56$","CD",0.6,633581
+7,"Avalanches","Since I Left You",498,"Avalanches","Since I left you (2001, digi)","2,56Eur / 2,94$","CD",0.714,254875
+8,"Pixies","Bossanova",491,"Pixies","Bossanova (1990)","5,23Eur / 6,01$","CD",0.667,9558
+9,"Interpol","Turn on the Bright Lights",488,"Interpol","Turn on the bright lights (11 tracks, 2012, RE)","9Eur / 10,35$","CD",0.6,1157734
+10,"Beirut","Gulag Orkestar",424,"Beirut","Gulag orkestar (2006)","11,9Eur / 13,68$","2CD",0.75,859591
+11,"Hot Chip","Made in the Dark",415,"Hot Chip","Made in the dark (2008, #5182242)","1,99Eur / 2,28$","CD",0.75,707689
+12,"Vampire Weekend","Modern Vampires of the City",384,"Vampire Weekend","Modern vampires of the city (2013)","3,06Eur / 3,51$","CD",0.875,893079
+13,"Beastie Boys","Check Your Head",377,"Beastie Boys","Check your head (1992)","6,35Eur / 7,3$","CD",0.833,33797
+14,"Arctic Monkeys","Whatever People Say I Am, That's What I'm Not",376,"Arctic Monkeys","Whatever people say I am, that's what I'm not (2006)","5,12Eur / 5,88$","CD",0.917,503151
+15,"MGMT","Oracular Spectacular",355,"MGMT","Oracular spectacular (2008, card)","2,99Eur / 3,43$","CD",0.6,559757
+16,"Arctic Monkeys","Favourite Worst Nightmare",338,"Arctic Monkeys","Favourite worst nightmare (2007, digi)","5,66Eur / 6,5$","CD",0.714,542001
+17,"Pulp","This Is Hardcore",327,"Pulp","This is hardcore (1998)","5,5Eur / 6,32$","CD",0.8,129627
+18,"Vampire Weekend","Contra",324,"Vampire Weekend","Contra (2010)","2,95Eur / 3,39$","CD",0.75,882951
+19,"Kanye West","My Beautiful Dark Twisted Fantasy",281,"Kanye West","My beautiful dark twisted fantasy (2010)","11,09Eur / 12,75$","CD",0.875,642596
+20,"Beastie Boys","Hello Nasty",281,"Beastie Boys","Hello nasty (1998)","8,08Eur / 9,29$","2CD",0.8,759646
+21,"Hot Chip","One Life Stand",270,"Hot Chip","One life stand (2010)","2,72Eur / 3,12$","CD",0.833,946942
+22,"Babyshambles","Down in Albion",261,"Babyshambles","Down in Albion (2005)","2,41Eur / 2,77$","CD",0.8,478275
+23,"Mando Diao","Hurricane Bar",249,"Mando Diao","Hurricane bar (2004)","2,95Eur / 3,39$","CD",0.8,463202
+24,"Daft Punk","Homework",248,"Daft Punk","Homework (1996)","5,85Eur / 6,72$","CD",0.75,109845
+25,"Klaxons","Myths of the Near Future",241,"Klaxons","Myths of the near future (2007)","1,99Eur / 2,28$","CD",0.857,721849
+26,"Blur","The Best Of",227,"Blur","Best of (2000)","5,73Eur / 6,58$","CD",0.6,309640
+27,"Lykke Li","Wounded Rhymes",218,"Lykke Li","Wounded rhymes (2012)","6,09Eur / 7$","2CD",0.8,826283
+28,"Marina & the Diamonds","The Family Jewels",213,"Marina & The Diamonds","Family jewels (2010)","4,35Eur / 5$","CD",0.833,625279
+29,"Radiohead","Kid A",211,"Radiohead","Kid a (2000)","8,09Eur / 9,3$","CD",0.75,252393
+30,"Yacht","See Mystery Lights",207,"Yacht","See mystery lights (2009, digi)","1,99Eur / 2,28$","CD",0.667,1056073
+31,"Beastie Boys","Ill Communication",202,"Beastie Boys","Ill communication (1994, US)","7,8Eur / 8,97$","CD",0.667,55302
+32,"Grimes","Visions",201,"Grimes","Visions","11,08Eur / 12,74$","CD",1.0,945063
+33,"Pulp","Different Class",199,"Pulp","Different class (1995)","5,59Eur / 6,42$","CD",0.75,68484
+34,"Lightspeed Champion","Falling Off The Lavender Bridge",199,"Lightspeed Champion","Falling off the lavender bridge (2008)","0,99Eur / 1,13$","CD",0.875,1044755
+35,"Blood Red Shoes","Box of Secrets",195,"Blood Red Shoes","Box of secrets (2008)","1,99Eur / 2,28$","CD",0.857,754903
+36,"Gorillaz","Plastic Beach",191,"Gorillaz","Plastic beach (2010)","6,45Eur / 7,41$","CD",0.75,799919
+37,"Phoenix","It's Never Been Like That",188,"Phoenix","It's never been like that (2006)","2,95Eur / 3,39$","CD",0.857,667962
+38,"Beastie Boys","Hot Sauce Committee Part Two",184,"Beastie Boys","Hot sauce committee part two (2011, foc-card)","5,6Eur / 6,44$","CD",0.778,1132563
+39,"Bloc Party","A Weekend In the City",177,"Bloc Party","A weekend in the city (CD/DVD)","2,95Eur / 3,39$","2CD",0.875,968826
+40,"Digitalism","Idealism",175,"Digitalism","Idealism (2007)","1,99Eur / 2,28$","CD",0.667,942337
+41,"Perfect Pussy","Say Yes to Love",167,"Perfect Pussy","Say yes to love (2014, US)","5,6Eur / 6,44$","CD",0.75,1132925
+42,"Test Icicles","For Screening Purposes Only",164,"Test Icicles","For screening purposes only (2005)","0,99Eur / 1,13$","CD",0.857,677330
+43,"Cloud Nothings","Here and Nowhere Else",163,"Cloud Nothings","Here and nowhere else (2014, 8 tracks, digi)","5,34Eur / 6,14$","CD",0.6,865523
+44,"Joy Division","Substance (1977-1980)",158,"Joy Division","Substance 1977-1980","7,35Eur / 8,45$","CD",1.0,37105
+45,"Pavement","Slanted & Enchanted",156,"Pavement","Slanted and enchanted (1992)","5,74Eur / 6,6$","CD",0.6,202605
+46,"Air","Pocket Symphony",150,"Air","Pocket symphony (2007)","4,9Eur / 5,63$","CD",0.75,555156
+47,"Nirvana","In Utero",147,"Nirvana","In utero (1993)","5,83Eur / 6,7$","CD",0.75,45140
+48,"Phoenix","Bankrupt!",146,"Phoenix","Bankrupt! (2013)","2,95Eur / 3,39$","CD",0.667,824157
+49,"Nirvana","Bleach",145,"Nirvana","Bleach (1989)","9,2Eur / 10,58$","CD",0.667,50258
+50,"FM Belfast","How to Make Friends [Explicit]",144,"FM Belfast","How to make friends (2009)","4,39Eur / 5,04$","CD",0.75,856149
+51,"Simian Mobile Disco","Attack Decay Sustain Release",142,"Simian Mobile Disco","Attack decay sustain release (2007)","3,25Eur / 3,73$","CD",0.875,653501
+52,"Talking Heads","Remain in Light [DualDisc]",137,"Talking Heads","Remain in light (1980)","20,67Eur / 23,77$","LP",0.714,10277
+53,"Radiohead","OK Computer",131,"Radiohead","Ok computer (1997)","8,51Eur / 9,78$","CD",0.75,129268
+54,"Babyshambles","Shotters Nation",121,"Babyshambles","Shotter's nation (2007)","3,61Eur / 4,15$","CD",0.75,661673
+55,"Pavement","Crooked Rain Crooked Rain",119,"Pavement","Crooked rain, crooked rain (1994)","3,19Eur / 3,66$","CD",0.75,103590
+56,"Klaxons","Myths Of The Near Future [Bonus Track]",116,"Klaxons","Myths of the near future (2007)","1,99Eur / 2,28$","CD",0.667,721849
+57,"Editors","The Back Room",111,"Editors","Back room (2005)","2,72Eur / 3,12$","CD",0.6,542623
+58,"Jamie xx","In Colour",109,"Jamie xx","In colour","5,05Eur / 5,8$","CD",1.0,1004425
+59,"Beastie Boys","Paul's Boutique",105,"Beastie Boys","Paul's boutique (1989)","6,44Eur / 7,4$","CD",0.8,35952
+60,"Mando Diao","Ode To Ochrasy",104,"Mando Diao","Ode to ochrasy (2006)","1,99Eur / 2,28$","CD",0.833,526894
+61,"Portishead","Third",102,"Portishead","Third (2008)","4,25Eur / 4,88$","CD",0.667,627637
+62,"Interpol","Antics",101,"Interpol","Antics (2004)","5,2Eur / 5,98$","CD",0.667,661781
+63,"Hot Chip","The Warning",99,"Hot Chip","Warning (2006)","1,99Eur / 2,28$","CD",0.6,2021261
+64,"Atlas Sound","Logos",95,"Atlas Sound","Logos","5,2Eur / 5,98$","CD",1.0,915298
+65,"Sex Pistols","Never Mind the Bollocks",94,"Sex Pistols","Never mind the Bollocks, here's the Sex Pistols (1977, RI)","3,86Eur / 4,43$","CD",0.667,18381
+66,"Fugazi","13 Songs",93,"Fugazi","13 songs (1988/89)","16,72Eur / 19,22$","CD",0.75,55644
+67,"Black Kids","Partie Traumatic",92,"Black Kids","Partie traumatic (2008)","3,75Eur / 4,31$","CD",0.8,585827
+68,"Joy Division","Unknown Pleasures",87,"Joy Division","Unknown pleasures (1979/80)","9,52Eur / 10,94$","CD",0.8,917165
+69,"Pulp","We Love Life",86,"Pulp","We love life (2001)","3,91Eur / 4,49$","CD",0.8,332630
+70,"Portishead","Dummy",84,"Portishead","Dummy (1994)","7,76Eur / 8,92$","CD",0.667,70196
+71,"Nouvelle Vague","Bande a Part",83,"Nouvelle Vague","Bande  part (2006)","3,31Eur / 3,8$","CD",0.667,655808
+72,"Local Natives","Gorilla Manor",78,"Local Natives","Gorilla manor (CD/DVD)","1,99Eur / 2,28$","2CD",0.8,627098
+73,"Hot Chip","In Our Heads (Expanded Edition)",78,"Hot Chip","In our heads (2012, expanded edition)","10,95Eur / 12,59$","2CD",0.875,882855
+74,"Joy Division","Substance",77,"Joy Division","Substance 1977-1980","7,35Eur / 8,45$","CD",0.75,37105
+75,"Air","Talkie Walkie",76,"Air","Talkie walkie (2003)","3,1Eur / 3,56$","CD",0.75,528169
+76,"Beastie Boys","Hot Sauce Committee Part 2",76,"Beastie Boys","Hot sauce committee part two (2011, foc-card)","5,6Eur / 6,44$","CD",0.6,1132563
+77,"Moonbootica","Moonlight Welfare",76,"Moonbootica","Moonlight welfare (2007)","2,31Eur / 2,65$","CD",0.75,673642
+78,"PVT","Church With No Magic",73,"PVT","Church with no magic (Promo, cardsleeve, 2010)","0,99Eur / 1,13$","CD",0.625,980707
+79,"Hot Chip","In Our Heads",70,"Hot Chip","In our heads (2012, expanded edition)","10,95Eur / 12,59$","2CD",0.625,882855
+80,"Zero 7","The Garden",68,"Zero 7","Garden (2006)","2,76Eur / 3,17$","CD",0.6,759364
+81,"Basement Jaxx","Crazy Itch Radio",66,"Basement Jaxx","Crazy itch radio (2006)","3,1Eur / 3,56$","CD",0.833,513096
+82,"Beastie Boys","Check Your Head (Deluxe Edition/Remastered/2009)",65,"Beastie Boys","Check your head (1992)","6,35Eur / 7,3$","CD",0.625,33797
+83,"The Good, the Bad & the Queen","The Good, the Bad & the Queen",65,"The Good, the Bad & the Queen","Herculean (digi)","2,1Eur / 2,41$","MCD",0.667,996219
+84,"TV on the Radio","Dear Science,",64,"TV on the Radio","Dear science (2008)","2,83Eur / 3,25$","CD",0.857,800705
+85,"Bloc Party","Intimacy",63,"Bloc Party","Intimacy (2008)","2,95Eur / 3,39$","CD",0.75,814041
+86,"Atlas Sound","Parallax",62,"Atlas Sound","Parallax (2011)","4,47Eur / 5,14$","CD",0.75,1026062
+87,"Cajun Dance Party","Colourful Life",62,"Cajun Dance Party","Colourful life (9 tracks, 2008)","1,99Eur / 2,28$","CD",0.625,1112533
+88,"Nick Cave & the Bad Seeds","Ghosteen",61,"Nick Cave & The Bad Seeds","Live seeds (1993)","5,8Eur / 6,67$","CD",0.625,321563
+89,"Sonic Youth","Goo",60,"Sonic Youth","Goo (1990)","5,39Eur / 6,19$","CD",0.75,101705
+90,"M.I.A.","Kala",60,"M.I.A","Kala (2007)","2,98Eur / 3,42$","CD",0.667,847232
+91,"Klaxons","Surfing the Void",59,"Klaxons","Surfing the void (2010)","1,99Eur / 2,28$","CD",0.8,826054
+92,"Metronomy","The English Riviera",56,"Metronomy","English riviera (2011)","2,95Eur / 3,39$","CD",0.6,773370
+93,"Manic Street Preachers","This Is My Truth Tell Me Yours",56,"Manic Street Preachers","This is my truth tell me yours (1998)","3,4Eur / 3,91$","CD",0.909,161764
+94,"Delphic","Acolyte",53,"Delphic","Acolyte (2010)","0,99Eur / 1,13$","CD",0.667,833059
+95,"Franz Ferdinand","Tonight: Franz Ferdinand",52,"Franz Ferdinand","Tonight (2009)","1,99Eur / 2,28$","CD",0.75,746429
+96,"Emilíana Torrini","Me And Armini (Japanese Edition)",52,"Emiliana Torrini","Me and Armini (2008)","2,97Eur / 3,41$","2CD",0.625,689064
+97,"Frank Black","Teenager of the Year",51,"Frank Black","Teenager of the year (1994)","3,78Eur / 4,34$","CD",0.857,101674
+98,"Squarepusher","Hard Normal Daddy",50,"Squarepusher","Hard normal daddy (1997)","12,02Eur / 13,82$","CD",0.8,146181
+99,"Pavement","Slanted and Enchanted",49,"Pavement","Slanted and enchanted (1992)","5,74Eur / 6,6$","CD",0.8,202605
+100,"Oasis","Be Here Now",48,"Oasis","Be here now (1997)","4Eur / 4,6$","CD",0.8,116598
+101,"Daft Punk","Homework [Vinyl]",48,"Daft Punk","Homework (1996)","5,85Eur / 6,72$","CD",0.6,109845
+102,"Kasabian","West Ryder Pauper Lunatic Asylum",47,"Kasabian","West ryder pauper lunatic asylum (2009)","2,22Eur / 2,55$","CD",0.857,700947
+103,"Bat for Lashes","Fur and Gold",45,"Bat For Lashes","Fur and gold (2007)","2,44Eur / 2,8$","CD",0.857,799927
+104,"Lightspeed Champion","Life Is Sweet! Nice To Meet You",45,"Lightspeed Champion","Life is sweet nice to meet you","0,99Eur / 1,13$","CD",1.0,983709
+105,"Roxy Music","Avalon",43,"Roxy Music","Avalon (1982)","11,35Eur / 13,05$","LP",0.75,17026
+106,"Chris Clark","Empty the Bones of You",43,"Chris Clark","Empty the bones of you (2003, UK, digi)","9Eur / 10,35$","CD",0.7,1158866
+107,"Amon Tobin","Supermodified",42,"Amon Tobin","Supermodified (2000, digi)","8Eur / 9,2$","CD",0.6,297731
+108,"Kasabian","Velociraptor!",41,"Kasabian","Velociraptor (2011)","1,99Eur / 2,28$","CD",0.667,912246
+109,"Mark Ronson","Version",41,"Mark Ronson","Version (2007)","2,95Eur / 3,39$","CD",0.75,703039
+110,"Beastie Boys","Licensed to Ill",40,"Beastie Boys","Licensed to ill (1986)","4,53Eur / 5,2$","CD",0.833,36389
+111,"Mount Kimbie","Crooks & Lovers",39,"Mount Kimbie","Crooks & lovers (2010)","13,75Eur / 15,81$","CD",0.8,861009
+112,"New Order","Low-Life",39,"New Order","Low-life (1985)","8,36Eur / 9,61$","CD",0.75,37092
+113,"Lana Del Rey","Lana Del Rey",39,"Lana Del Rey","Honeymoon (2015)","6,26Eur / 7,19$","CD",0.6,946966
+114,"El Guincho","Pop Negro",38,"El Guincho","Pop negro","4,77Eur / 5,48$","CD",1.0,646459
+115,"Abe Vigoda","Skeleton",38,"Abe Vigoda","Skeleton (cardsleeve)","1,43Eur / 1,64$","CD",0.75,1048926
+116,"Oasis","(What's the Story) Morning Glory? [Remastered]",36,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.75,168116
+117,"New Order","Technique",36,"New Order","Technique (1989)","8,81Eur / 10,13$","CD",0.75,37086
+118,"Sonic Youth","Rather Ripped",35,"Sonic Youth","Rather ripped (2006)","6,04Eur / 6,94$","CD",0.8,634196
+119,"Nick Cave & the Bad Seeds","The Boatman's Call (Remastered)",35,"Nick Cave & The Bad Seeds","Boatman's call (1997)","9,04Eur / 10,39$","CD",0.778,111315
+120,"Beastie Boys","Some Old Bullshit",35,"Beastie Boys","Some old bullshit (1994)","1,99Eur / 2,28$","CD",0.833,45431
+121,"Mando Diao","Bring 'Em In",35,"Mando Diao","Bring 'em in (2002)","1,99Eur / 2,28$","CD",0.833,405990
+122,"Talking Heads","Remain In Light [w/Bonus Tracks]",34,"Talking Heads","Remain in light (1980)","20,67Eur / 23,77$","LP",0.625,10277
+123,"Why?","Eskimo Snow",33,"Why?","Eskimo snow (2009)","2,29Eur / 2,63$","CD",0.75,773164
+124,"Kate Bush","The Kick Inside",32,"Kate Bush","Kick inside (1978)","21,62Eur / 24,86$","LP",0.667,11724
+125,"Kendrick Lamar","DAMN.",32,"Kendrick Lamar","Damn. (2017)","9,12Eur / 10,48$","CD",0.75,1140911
+126,"!!!","Strange Weather, Isn't It?",32,"!!!","Strange weather, isn't it?","1,99Eur / 2,28$","CD",1.0,1090139
+127,"Grizzly Bear","Veckatimest",31,"Grizzly Bear","Veckatimest (2009)","2,04Eur / 2,34$","CD",0.75,724153
+128,"Yo La Tengo","Fade",31,"Yo La Tengo","Camp yo la tengo","3,57Eur / 4,1$","MCD",0.6,964620
+129,"Does It Offend You, Yeah?","You Have No Idea What You're Getting Yourself Into",31,"Does It Offend You Yeah","You have no idea what you're getting..","3,68Eur / 4,23$","CD",0.846,2044756
+130,"Nick Cave & the Bad Seeds","Abattoir Blues / The Lyre of Orpheus",30,"Nick Cave & The Bad Seeds","Abattoir blues/The lyre of Orpheus (2004, incl. Book, box)","7,17Eur / 8,24$","2CD",0.6,445074
+131,"Basement Jaxx","Rooty",30,"Basement Jaxx","Rooty (2001)","3,1Eur / 3,56$","CD",0.75,297837
+132,"Philip Glass","Solo Piano",30,"Philip Glass","Solo piano (1989, UK)","6Eur / 6,9$","CD",0.667,1129536
+133,"Radiohead","Amnesiac",29,"Radiohead","Amnesiac (2001)","5,77Eur / 6,63$","CD",0.667,299567
+134,"Blur","Blur: The Best Of",29,"Blur","Best of (2000)","5,73Eur / 6,58$","CD",0.6,309640
+135,"Manic Street Preachers","Send Away the Tigers",29,"Manic Street Preachers","Send away the tigers (2007)","2,95Eur / 3,39$","CD",0.875,542792
+136,"We Have Band","WHB",29,"We Have Band","WHB (cardsleeve)","0,99Eur / 1,13$","CD",0.8,916566
+137,"Talking Heads","Remain In Light (Deluxe Version)",28,"Talking Heads","Remain in light (1980)","20,67Eur / 23,77$","LP",0.625,10277
+138,"CSS","Cansei De Ser Sexy",28,"CSS","Cansei de ser sexy","3,68Eur / 4,23$","CD",1.0,2044774
+139,"Nick Cave & the Bad Seeds","The Good Son (Remastered)",28,"Nick Cave & The Bad Seeds","Good son (1990)","5,67Eur / 6,52$","CD",0.778,114579
+140,"Beirut","The Gulag Orkestar",28,"Beirut","Gulag orkestar (2006)","11,9Eur / 13,68$","2CD",0.6,859591
+141,"Errors","Come Down With Me",28,"Errors","Come down with me (2010)","0,99Eur / 1,13$","CD",0.833,744776
+142,"Sonic Youth","Dirty",27,"Sonic Youth","Dirty (1992, #4244852)","5,44Eur / 6,25$","CD",0.6,6219
+143,"Pink Floyd","The Wall (remastered)",27,"Pink Floyd","The wall (1979)","17,32Eur / 19,91$","2CD",0.667,25265
+144,"Spacemen 3","The Perfect Prescription",27,"Spacemen 3","Perfect prescription","11,45Eur / 13,16$","CD",0.8,1092502
+145,"Beach Boys","The Beach Boys' Christmas Album",27,"Beach Boys'","Christmas album (1964)","2,95Eur / 3,39$","CD",0.667,25959
+146,"Johnny Cash","Country Christmas",27,"Johnny Cash","Country christmas (1991 recordings)","3,5Eur / 4,02$","CD",0.667,228157
+147,"New Order","Movement",26,"New Order","Movement (1981)","9,35Eur / 10,75$","CD",0.75,129326
+148,"Blur","13",26,"Blur","13 (1999)","3,85Eur / 4,42$","CD",0.667,185934
+149,"Babyshambles","Shotter's Nation",26,"Babyshambles","Shotter's nation (2007)","3,61Eur / 4,15$","CD",0.75,661673
+150,"PJ Harvey","Stories From the City, Stories From the Sea",25,"P.J. Harvey","Stories from the city, stories from the sea (12 tracks, 2000)","2,92Eur / 3,35$","CD",0.7,266543
+151,"Gold Panda","Lucky Shiner",25,"Gold Panda","Lucky shiner (2010, card)","9Eur / 10,35$","CD",0.667,1156579
+152,"PJ Harvey","Let England Shake",25,"P.J. Harvey","Let England shake (2010, EU)","1,99Eur / 2,28$","CD",0.714,823629
+153,"Talking Heads","Little Creatures",25,"Talking Heads","Little creatures (1985)","4,45Eur / 5,11$","CD",0.8,37122
+154,"Kendrick Lamar","To Pimp a Butterfly",25,"Kendrick Lamar","To pimp a butterfly (2015)","16,94Eur / 19,48$","CD",0.857,880115
+155,"Khoiba","Nice Traps",25,"Khoiba","Nice traps (2005, digi)","2,95Eur / 3,39$","CD",0.6,485504
+156,"Oasis","Dig Out Your Soul",24,"Oasis","Dig out your soul (2008)","4,57Eur / 5,25$","CD",0.833,720065
+157,"Bad Brains","Bad Brains",24,"Bad Brains","Live","13,78Eur / 15,84$","CD",0.667,46460
+158,"Metronomy","Love Letters",23,"Metronomy","Love letters (2014)","2,51Eur / 2,88$","CD",0.75,833663
+159,"Spoon","They Want My Soul",23,"Spoon","They want my soul (2014, EU, digi)","9,31Eur / 10,7$","CD",0.625,1028218
+160,"Oasis","Heathen Chemistry",22,"Oasis","Heathen chemistry (2002)","4,5Eur / 5,17$","CD",0.75,345422
+161,"Future Islands","Singles",22,"Future Islands","Singles (2014, digi)","4,75Eur / 5,46$","CD",0.6,1026183
+162,"Junior Boys","So This Is Goodbye",22,"Junior Boys","So this is goodbye (2006)","1,99Eur / 2,28$","CD",0.857,653476
+163,"New Order","Substance",21,"New Order","Substance 1987","12,31Eur / 14,15$","2CD",0.75,16684
+164,"Arcade Fire","WE",21,"Arcade Fire","We (2022, foc-cardsleeve)","9,5Eur / 10,92$","CD",0.6,2054606
+165,"New Order","Get Ready",21,"New Order","Get ready (10 tracks/2001)","3,59Eur / 4,12$","CD",0.667,299332
+166,"New Order","Republic",21,"New Order","Republic (1993)","3,25Eur / 3,73$","CD",0.75,36079
+167,"Digitalism","I Love You, Dude",21,"Digitalism","I love you, dude (2011)","1,99Eur / 2,28$","CD",0.833,819393
+168,"Oasis","(What's The Story) Morning Glory",21,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.857,168116
+169,"Tokyo Police Club","A Lesson In Crime [EP]",21,"Tokyo Police Club","A lesson in crime (2006)","2,95Eur / 3,39$","CD",0.778,721881
+170,"Brian Eno","Another Green World",20,"Brian Eno","Another green world (2004, 14 tracks)","6,21Eur / 7,14$","CD",0.625,297930
+171,"Phoenix","United",20,"Phoenix","United (2000)","2,61Eur / 3$","CD",0.667,229686
+172,"White Rabbits","It's Frightening",20,"White Rabbits","It's frightening (2009, foc-cardsleeve)","1,99Eur / 2,28$","CD",0.667,806112
+173,"Streets","A Grand Don't Come for Free",20,"Streets","A grand don't come for free (2004)","3,1Eur / 3,56$","CD",0.875,543566
+174,"UNKLE","Psyence Fiction",19,"Unkle","Psyence fiction (1998, #5409702)","4,77Eur / 5,48$","CD",0.6,107240
+175,"Nick Cave & the Bad Seeds","Murder Ballads (Remastered)",19,"Nick Cave & The Bad Seeds","Murder ballads (1996)","5,16Eur / 5,93$","CD",0.778,70128
+176,"Cocteau Twins","Treasure",18,"Cocteau Twins","Treasure (1984)","9,8Eur / 11,27$","CD",0.75,733331
+177,"System of a Down","Toxicity",17,"System of a Down","Toxicity (2001)","8,04Eur / 9,24$","CD",0.833,299972
+178,"Lou Reed","Transformer",17,"Lou Reed","Transformer (1972)","2,95Eur / 3,39$","CD",0.75,102435
+179,"Nick Cave & the Bad Seeds","The Boatman's Call (2011 Remastered Version)",17,"Nick Cave & The Bad Seeds","Boatman's call (1997)","9,04Eur / 10,39$","CD",0.636,111315
+180,"T.V. On The Radio","Dear Science",17,"TV on the Radio","Dear science (2008)","2,83Eur / 3,25$","CD",0.857,800705
+181,"Nick Drake","Pink Moon",16,"Nick Drake","Pink moon (1972)","6,28Eur / 7,22$","CD",0.8,195974
+182,"Devendra Banhart","Mala",16,"Devendra Banhart","Mala (2013, card)","4,49Eur / 5,16$","CD",0.6,2046304
+183,"Lindstrøm","Where You Go I Go Too",16,"Lindstrm","Where you go i go too (2008)","10,05Eur / 11,55$","2CD",0.857,2046991
+184,"Bloc Party","Silent Alarm",15,"Bloc Party","Silent alarm (2005)","4,62Eur / 5,31$","CD",0.8,627486
+185,"Jeff Buckley","Grace",15,"Jeff Buckley","Grace (1994)","7,86Eur / 9,03$","CD",0.75,166029
+186,"Simian Mobile Disco","Temporary Pleasure",15,"Simian Mobile Disco","Temporary pleasure","1,99Eur / 2,28$","CD",1.0,2016951
+187,"Oasis","Be Here Now (Remastered)",15,"Oasis","Be here now (1997)","4Eur / 4,6$","CD",0.667,116598
+188,"Pacific!","Reveries",15,"Pacific","Reveries (2008)","0,99Eur / 1,13$","CD",0.667,1023672
+189,"Gorillaz","Demon Days",14,"Gorillaz","Demon days (2005)","7,47Eur / 8,59$","CD",0.75,493157
+190,"Radiohead","Pablo Honey",14,"Radiohead","Pablo honey (1993)","7,19Eur / 8,26$","CD",0.75,156564
+191,"Oasis","Definitely Maybe",14,"Oasis","Definitely maybe (1994, EU)","9,83Eur / 11,3$","CD",0.6,78791
+192,"Blur","The Magic Whip",14,"Blur","Magic whip (2015)","4,3Eur / 4,94$","CD",0.6,897568
+193,"Orbital","In Sides",14,"Orbital","In sides (1997)","9,07Eur / 10,43$","2CD",0.75,952625
+194,"Yo La Tengo","Extra Painful",14,"Yo La Tengo","Painful (1993)","6,46Eur / 7,42$","CD",0.667,101699
+195,"N*E*R*D","Seeing Sounds",14,"N*e*r*d","Seeing sounds (2008)","4,7Eur / 5,4$","CD",0.75,700801
+196,"Groove Armada","Goodbye Country (Hello Nightclub)",13,"Groove Armada","Goodbye country (hello nightclub; 2001)","1,99Eur / 2,28$","CD",0.857,2030401
+197,"Travis","The Invisible Band",13,"Travis","Invisible band (2001)","3,1Eur / 3,56$","CD",0.6,269803
+198,"Kings of Convenience","Riot on an Empty Street",13,"Kings of Convenience","Riot on an empty street (2004, #5718842)","5,73Eur / 6,58$","CD",0.8,413449
+199,"Frank Ocean","channel ORANGE (Explicit Version)",13,"Frank Ocean","Channel orange","12,25Eur / 14,08$","CD",0.667,915434
+200,"You Say Party! We Say Die!","Lose All Time",13,"You Say Party! We Say Die!","Lose all time (2007, CAN)","0,99Eur / 1,13$","CD",0.8,527875
+201,"Massive Attack","Mezzanine",12,"Massive Attack","Mezzanine (1998)","7,8Eur / 8,97$","CD",0.75,130213
+202,"The The","Soul Mining",12,"The The","Soul mining (1983)","7,83Eur / 9$","CD",0.75,12855
+203,"Joy Division","Still (Collector's Edition)",12,"Joy Division","Still","6,65Eur / 7,64$","CD",0.6,26146
+204,"Black Rebel Motorcycle Club","B.R.M.C.",12,"Black Rebel Motorcycle Club","B.R.M.C. (2001)","4,31Eur / 4,95$","CD",0.833,344907
+205,"Noah and the Whale","Peaceful, The World Lays Me Down",12,"Noah and the Whale","Peaceful, the world lays me down (11 tracks, 2008, EU/UK)","2,95Eur / 3,39$","CD",0.692,800747
+206,"Wild Beasts","Smother",12,"Wild Beasts","Smother (Promo)","1,99Eur / 2,28$","CD",0.75,836972
+207,"Sex Pistols","Never Mind the Bollocks, Here’s the Sex Pistols",12,"Sex Pistols","Never mind the Bollocks, here's the Sex Pistols (1977, RI)","3,86Eur / 4,43$","CD",0.778,18381
+208,"FM Belfast","Don't Want To Sleep",12,"FM Belfast","Don't want to sleep (2011)","2,95Eur / 3,39$","CD",0.857,929621
+209,"Lana Del Rey","Born to Die",12,"Lana Del Rey","Born to die (2012, paradise edition)","10,32Eur / 11,86$","2CD",0.667,944649
+210,"Kate Bush","Hounds of Love",11,"Kate Bush","Hounds of love (1985)","56,72Eur / 65,22$","LP",0.833,22398
+211,"Blur","Think Tank",11,"Blur","Think tank (2003)","3,93Eur / 4,51$","CD",0.75,477164
+212,"New Order","Waiting for the Sirens' Call",11,"New Order","Waiting for the sirens' call (2005)","3,57Eur / 4,1$","CD",0.875,493200
+213,"Interpol","Our Love to Admire",11,"Interpol","Our love to admire (2007)","4,31Eur / 4,95$","CD",0.833,668342
+214,"Talking Heads","Stop Making Sense",11,"Talking Heads","Stop making sense (1984)","39,07Eur / 44,93$","LP",0.833,17584
+215,"Queen","A Night At The Opera (2011 Remaster)",11,"Queen","A night at the Opera (1975)","35,94Eur / 41,33$","LP",0.667,3703
+216,"Loop","A Gilded Eternity (Remastered)",11,"Loop","A gilded eternity (1990)","8,54Eur / 9,82$","CD",0.667,110739
+217,"Afghan Whigs","Gentlemen",11,"Afghan Whigs","Gentlemen (1993)","8,92Eur / 10,25$","CD",0.75,101697
+218,"Crystal Fighters","Star of Love",11,"Crystal Fighters","Star of love (2010, Promo)","0,99Eur / 1,13$","CD",0.714,841674
+219,"Sage Francis","Li(f)e",11,"Sage Francis","Li(f)e (2010)","1,99Eur / 2,28$","CD",0.75,2038829
+220,"Buraka Som Sistema","Black Diamond",11,"Buraka Som Sistema","Black diamond (2008)","1,02Eur / 1,17$","CD",0.833,846541
+221,"Hadouken!","Music for an Accelerated Culture",11,"Hadouken!","Music for an accelerated culture (2008)","1,99Eur / 2,28$","CD",0.857,579380
+222,"Peter Doherty","Grace/Wastelands",11,"Peter Doherty","Grace/Wastelands (2009)","3,01Eur / 3,46$","CD",0.75,805136
+223,"Air","Virgin Suicides",11,"Air","Virgin suicides (soundtrack, 2000)","6,91Eur / 7,94$","CD",0.6,266557
+224,"Radiohead","OK Computer OKNOTOK 1997 2017",10,"Radiohead","Ok computer (1997)","8,51Eur / 9,78$","CD",0.667,129268
+225,"Peter Bjorn and John","Writer's Block",10,"Peter Bjorn and John","Writer's block (2006)","1,99Eur / 2,28$","CD",0.857,657684
+226,"Iggy Pop","Lust for Life",10,"Iggy Pop","Lust for life (1977)","3,07Eur / 3,53$","CD",0.833,101702
+227,"Oasis","[What's the Story] Morning Glory? [Remastered]",10,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.75,168116
+228,"Moby","18",10,"Moby","18 (2002)","3,07Eur / 3,53$","CD",0.667,368429
+229,"M83","Before the Dawn Heals Us",10,"M83","Before the dawn heals us (US, 2005, 15 tracks)","5,41Eur / 6,22$","CD",0.667,478302
+230,"S.C.U.M.","Again Into Eyes",10,"S.c.u.m","Again into eyes (2011, card)","0,99Eur / 1,13$","CD",0.667,1004547
+231,"Villagers","Becoming a Jackal",10,"Villagers","Becoming a jackal (Promo, 2010)","0,99Eur / 1,13$","MCD",0.667,669401
+232,"Van She","V",10,"Van She","V (2008, digi)","3,83Eur / 4,4$","CD",0.6,2045505
+233,"Klaxons","It's Not Over Yet",10,"Klaxons","It's not over yet (Radio Mix, 2007)","0,49Eur / 0,56$","MCD",0.625,707308
+234,"Editors","An End Has a Start",10,"Editors","An end has a start (2007)","2,95Eur / 3,39$","CD",0.857,748072
+235,"Audio Bullys","Ego War",10,"Audio Bullys","Ego war (2003)","2,95Eur / 3,39$","CD",0.8,470771
+236,"Ramones","Brain Drain",9,"Ramones","Brain drain (1989)","8,34Eur / 9,59$","CD",0.75,21365
+237,"XTC","Drums and Wires",9,"XTC","Drums and wires (1979/2001)","7,52Eur / 8,64$","CD",0.8,760687
+238,"Happy Mondays","Greatest Hits",9,"Happy Mondays","Greatest hits (1999)","3,62Eur / 4,16$","CD",0.8,657095
+239,"Kanye West","The College Dropout",9,"Kanye West","College dropout (2004)","6,74Eur / 7,75$","CD",0.667,409847
+240,"Groove Armada","Vertigo",9,"Groove Armada","Vertigo (1999)","3,4Eur / 3,91$","CD",0.75,194213
+241,"Sascha Funke","Mango",9,"Sascha Funke","Mango (2008)","4,05Eur / 4,65$","CD",0.75,863409
+242,"Talk Talk","Spirit of Eden",9,"Talk Talk","Spirit of Eden (1988)","22,95Eur / 26,39$","LP",0.8,16582
+243,"David Bowie","Hunky Dory",9,"David Bowie","Hunky Dory (1971/99)","10,31Eur / 11,85$","CD",0.8,768004
+244,"Nick Cave & the Bad Seeds","Henry's Dream",9,"Nick Cave & The Bad Seeds","Henry's dream (1992)","4,25Eur / 4,88$","CD",0.875,39889
+245,"Late of the Pier","Fantasy Black Channel",9,"Late of the Pier","Fantasy black channell (2008)","1,43Eur / 1,64$","CD",0.667,826072
+246,"Massive Attack","Heligoland",8,"Massive Attack","Heligoland (2010)","5,64Eur / 6,48$","CD",0.75,745332
+247,"Sonic Youth","A Thousand Leaves",8,"Sonic Youth","A thousand leaves (1998)","5,46Eur / 6,27$","CD",0.833,179665
+248,"Brian Eno","Another Green World (2004 remaster)",8,"Brian Eno","Another green world (2004, 14 tracks)","6,21Eur / 7,14$","CD",0.667,297930
+249,"Yeah Yeah Yeahs","Show Your Bones",8,"Yeah Yeah Yeahs","Show your bones (2006)","4,05Eur / 4,65$","CD",0.833,615539
+250,"Manic Street Preachers","Know Your Enemy",8,"Manic Street Preachers","Know your enemy (2001)","2,13Eur / 2,44$","CD",0.857,299128
+251,"Moby","Play",8,"Moby","Play (1999)","3,85Eur / 4,42$","CD",0.667,208414
+252,"Oasis","Don't Believe the Truth",8,"Oasis","Don't believe the truth (2005)","5,68Eur / 6,53$","CD",0.833,470831
+253,"Oasis","Standing on the Shoulder of Giants",8,"Oasis","Standing on the shoulder of giants (2000)","3,7Eur / 4,25$","CD",0.875,232644
+254,"System of a Down","Mezmerize",8,"System of a Down","Mezmerize (dual-disc, 2005, digi)","9,12Eur / 10,48$","CD",0.625,1148617
+255,"System of a Down","System of a Down",8,"System of a Down","Toxicity (2001)","8,04Eur / 9,24$","CD",0.667,299972
+256,"Franz Ferdinand","Tonight",8,"Franz Ferdinand","Tonight (2009)","1,99Eur / 2,28$","CD",0.75,746429
+257,"Blur","The Great Escape",8,"Blur","Great escape (1995)","2,95Eur / 3,39$","CD",0.6,91900
+258,"Perfume Genius","Put Your Back N 2 It",8,"Perfume Genius","Put your back n 2 it (2012, digi, UK)","1,99Eur / 2,28$","CD",0.727,1012818
+259,"Phoenix","It's Never Been Like That / Alphabetical",8,"Phoenix","It's never been like that (2006)","2,95Eur / 3,39$","CD",0.75,667962
+260,"Rooney","Eureka",8,"Rooney","Eureka (2010)","2,95Eur / 3,39$","CD",0.667,744714
+261,"Good Shoes","No Hope, No Future",8,"Good Shoes","No hope, no future","2,13Eur / 2,44$","CD",1.0,1021992
+262,"Megapuss","Surfing",8,"Megapuss","Surfing (2008)","0,99Eur / 1,13$","CD",0.667,953781
+263,"Brazilian Girls","Talk To La Bomb",8,"Brazilian Girls","Talk to la bomb (2006, US)","1,99Eur / 2,28$","CD",0.75,513723
+264,"Nick Cave & the Bad Seeds","The Boatman's Call (2011 - Remaster)",7,"Nick Cave & The Bad Seeds","Boatman's call (1997)","9,04Eur / 10,39$","CD",0.7,111315
+265,"Nick Drake","Five Leaves Left",7,"Nick Drake","Five leaves left (10 tracks, 1970)","6,01Eur / 6,91$","CD",0.625,175794
+266,"Soft Cell","Non-Stop Erotic Cabaret",7,"Soft Cell","Non-stop erotic cabaret (1981)","12,79Eur / 14,7$","LP",0.833,20398
+267,"Manic Street Preachers","Gold Against the Soul",7,"Manic Street Preachers","Gold against the soul (1993)","2,95Eur / 3,39$","CD",0.875,59802
+268,"Fatboy Slim","You've Come A Long Way Baby",7,"Fatboy Slim","You've come a long way, baby (1998)","4,26Eur / 4,89$","CD",0.889,146122
+269,"Death in Vegas","The Contino Sessions",7,"Death in Vegas","Contino sessions (1999, #1661992)","4,51Eur / 5,18$","CD",0.625,746432
+270,"Dinosaur Jr.","Without a Sound",7,"Dinosaur jr.","Without a sound (1994)","12,27Eur / 14,11$","CD",0.833,104043
+271,"Underworld","A Hundred Days Off",7,"Underworld","A hundred days off (2002)","3,61Eur / 4,15$","CD",0.833,368419
+272,"Nick Cave & the Bad Seeds","B-Sides and Rarities",7,"Nick Cave & The Bad Seeds","B-sides & rarities (2005, boxset)","9,6Eur / 11,04$","3CD",0.7,872175
+273,"Nick Cave & the Bad Seeds","Nocturama",7,"Nick Cave & The Bad Seeds","Nocturama (2003)","3,21Eur / 3,69$","CD",0.857,419083
+274,"Phoenix","It's Never Been Like That (Deluxe Version)",7,"Phoenix","It's never been like that (2006)","2,95Eur / 3,39$","CD",0.667,667962
+275,"Queen","A Night At The Opera (Deluxe Remastered Version)",7,"Queen","A night at the Opera (1975)","35,94Eur / 41,33$","LP",0.6,3703
+276,"Nick Cave & the Bad Seeds","Live from KCRW",7,"Nick Cave & The Bad Seeds","Live from KCRW (digi, 2013)","5,04Eur / 5,79$","CD",0.8,1099484
+277,"Parov Stelar","Coco",7,"Parov Stelar","Coco (2009, digi)","17,27Eur / 19,86$","2CD",0.6,757934
+278,"Shantel","Disko Partizani",7,"Shantel","Disko partizani! (2007)","1,99Eur / 2,28$","CD",0.75,688692
+279,"PJ Harvey","To Bring You My Love",6,"P.J. Harvey","To bring you my love (1995)","4,51Eur / 5,18$","CD",0.875,57099
+280,"Gang of Four","A Brief History Of The 20th Century",6,"Gang of Four","A brief history of the twentieth century (compilation, 1990)","6,96Eur / 8$","CD",0.667,123647
+281,"Bon Iver","For Emma, Forever Ago",6,"Bon Iver","For Emma, forever ago (2008)","6,82Eur / 7,84$","CD",0.857,945455
+282,"Brian Eno","Before and After Science",6,"Brian Eno","Before and after science (1977/2009, Virgin/Astralwerk)","4,98Eur / 5,72$","CD",0.75,115652
+283,"Beth Gibbons","Out Of Season",6,"Beth Gibbons","Out of season (2002, & Rustin Man)","11,62Eur / 13,36$","CD",0.625,381567
+284,"Pearl Jam","Ten",6,"Pearl Jam","Ten (1991)","4,97Eur / 5,71$","CD",0.75,36424
+285,"Eels","Beautiful Freak",6,"Eels","Beautiful freak (1996)","3,62Eur / 4,16$","CD",0.75,96029
+286,"Goldfrapp","Black Cherry",6,"Goldfrapp","Black cherry (2003; #5835032)","3,1Eur / 3,56$","CD",0.6,703036
+287,"Leftfield","Leftism",6,"Leftfield","Leftism (1995)","3,48Eur / 4$","CD",0.667,50874
+288,"Basement Jaxx","Remedy",6,"Basement Jaxx","Remedy (1999)","4,05Eur / 4,65$","CD",0.75,161804
+289,"Moloko","Catalogue",6,"Moloko","Catalogue (2006)","4,42Eur / 5,08$","CD",0.667,962206
+290,"Trentemøller","Reworked/Remixed",6,"Trentemller","Reworked/remixed (2011)","11,92Eur / 13,7$","2CD",0.667,861020
+291,"Morcheeba","Big Calm",6,"Morcheeba","Big calm (1998)","3,25Eur / 3,73$","CD",0.75,120976
+292,"Warpaint","Heads Up",6,"Warpaint","Heads up (2016, cardsleeve)","8,34Eur / 9,59$","CD",0.6,972346
+293,"Daft Punk","Da Funk",6,"Daft Punk","Da funk (1996)","3,34Eur / 3,84$","MCD",0.8,197133
+294,"Doves","The Last Broadcast",6,"Doves","Last broadcast (2002)","1,99Eur / 2,28$","CD",0.6,363801
+295,"System of a Down","Steal This Album!",6,"System of a Down","Steal this album! (2002)","4,2Eur / 4,83$","CD",0.875,544404
+296,"Nick Cave & the Bad Seeds","Murder Ballads (2011 Remastered Version)",6,"Nick Cave & The Bad Seeds","Murder ballads (1996)","5,16Eur / 5,93$","CD",0.636,70128
+297,"Nick Cave & the Bad Seeds","The Good Son (2010 Remastered Version)",6,"Nick Cave & The Bad Seeds","Good son (1990)","5,67Eur / 6,52$","CD",0.636,114579
+298,"Babyshambles","Sequel To The Prequel (Sepcial Edition)",6,"Babyshambles","Sequel to the prequel (2013)","2,13Eur / 2,44$","2CD",0.625,826293
+299,"Oasis","(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",6,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.6,168116
+300,"Blondie","Parallel Lines",6,"Blondie","Parallel lines (1978/85, US)","10,28Eur / 11,82$","CD",0.6,764172
+301,"Laibach","NATO",6,"Laibach","Nato (1994)","7,18Eur / 8,25$","CD",0.667,33243
+302,"Supermayer","Save The World",6,"Supermayer","Save the world","1,99Eur / 2,28$","CD",1.0,662540
+303,"Ennio Morricone","The Good, the Bad and the Ugly",6,"Ennio Morricone","The good, the bad and the ugly (16 tracks, Success)","1,99Eur / 2,28$","CD",0.7,2038570
+304,"OK Go","Oh No",6,"Ok Go","Oh no (2005)","1,99Eur / 2,28$","CD",0.8,556353
+305,"Mazzy Star","She Hangs Brightly",5,"Mazzy Star","She hangs brightly (1990)","10,07Eur / 11,58$","CD",0.833,121556
+306,"Billy Idol","Rebel Yell",5,"Billy Idol","Rebel yell (1983)","15,84Eur / 18,21$","LP",0.8,8377
+307,"Blur","Modern Life Is Rubbish (Special Edition)",5,"Blur","Modern life is rubbish (1993)","3,01Eur / 3,46$","CD",0.625,11707
+308,"Yo La Tengo","Painful",5,"Yo La Tengo","Painful (1993)","6,46Eur / 7,42$","CD",0.8,101699
+309,"Beastie Boys","To the 5 Boroughs",5,"Beastie Boys","To the 5 boroughs (2004)","2,95Eur / 3,39$","CD",0.857,425598
+310,"Manic Street Preachers","Everything Must Go 20 (Remastered)",5,"Manic Street Preachers","Everything must go (2 CDs/DVD)","7,5Eur / 8,62$","3CD",0.6,2053933
+311,"Belle & Sebastian","The Boy With the Arab Strap",5,"Belle & Sebastian","Boy with the arab strap (1998)","1,99Eur / 2,28$","CD",0.875,256719
+312,"Primal Scream","Give Out But Don't Give Up (Expanded Edition)",5,"Primal Scream","Give out but don't give up (1994)","3,13Eur / 3,59$","CD",0.7,43704
+313,"Morrissey","Low In High School",5,"Morrissey","Low in high school (2017)","5,74Eur / 6,6$","CD",0.833,2045785
+314,"Queens of the Stone Age","Songs for the Deaf",5,"Queens of the Stone Age","Songs for the deaf (2002)","5,78Eur / 6,64$","CD",0.889,330556
+315,"Cornershop","Brimful of Asha",5,"Cornershop","Brimful of Asha (1998, #8852542)","4Eur / 4,6$","MCD",0.667,146076
+316,"John Cale","Fear",5,"John Cale","Fear (1974)","8,74Eur / 10,05$","CD",0.75,122364
+317,"Babyshambles","Sequel To The Prequel",5,"Babyshambles","Sequel to the prequel (2013)","2,13Eur / 2,44$","2CD",0.833,826293
+318,"Babyshambles","The Blinding EP",5,"Babyshambles","Blinding EP (2006)","2,02Eur / 2,32$","MCD",0.6,542021
+319,"Aphex Twin","Girl/Boy EP",5,"Aphex Twin","Girl/Boy EP (1996)","7,96Eur / 9,15$","MCD",0.8,88833
+320,"David Bowie","Let's Dance",5,"David Bowie","Let's dance (1983)","5,58Eur / 6,41$","SL",0.8,5577
+321,"Queen","News of the World (2011 Remaster)",5,"Queen","News of the world (1977)","26,3Eur / 30,24$","LP",0.625,21285
+322,"Slint","Tweez",5,"Slint","Tweez (1989/93)","9Eur / 10,35$","CD",0.667,1157729
+323,"Monty Python","Monty Python Sings",5,"Monty Python","Sings (1989)","3,1Eur / 3,56$","CD",0.75,18736
+324,"Nick Cave & the Bad Seeds","No More Shall We Part (2011 - Remaster)",4,"Nick Cave & The Bad Seeds","No more shall we part (12 tracks, 2001)","4,23Eur / 4,86$","CD",0.667,299334
+325,"Nick Cave & the Bad Seeds","Murder Ballads (2011 - Remaster)",4,"Nick Cave & The Bad Seeds","Murder ballads (1996)","5,16Eur / 5,93$","CD",0.7,70128
+326,"Dinosaur Jr.","Where You Been",4,"Dinosaur jr.","Where you been (10 tracks, 1993)","6,12Eur / 7,03$","CD",0.625,161812
+327,"Grandaddy","The Sophtware Slump",4,"Grandaddy","Sophtware slump (2000)","3,64Eur / 4,18$","CD",0.6,228854
+328,"Prefab Sprout","Steve McQueen",4,"Prefab Sprout","Steve McQueen (1985)","8,32Eur / 9,56$","CD",0.8,56083
+329,"Clap Your Hands Say Yeah","Clap Your Hands Say Yeah",4,"Clap Your Hands Say Yeah","Same (2005)","2,95Eur / 3,39$","CD",0.714,833108
+330,"Bombay Bicycle Club","A Different Kind of Fix",4,"Bombay Bicycle Club","A different kind of fix (12 tracks, 2011)","1,99Eur / 2,28$","CD",0.727,1114110
+331,"PJ Harvey","Rid of Me",4,"P.J. Harvey","Rid of me (1993)","6,2Eur / 7,13$","CD",0.833,66727
+332,"Bombay Bicycle Club","I Had the Blues But I Shook Them Loose",4,"Bombay Bicycle Club","I had the blues but I shook them loose (2009)","1,99Eur / 2,28$","CD",0.917,887058
+333,"Oasis","(What's the Story) Morning Glory?",4,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.857,168116
+334,"Mr. Oizo","Analog Worms Attack",4,"Mr. Oizo","Analog worms attack (1999)","5,27Eur / 6,06$","CD",0.833,336304
+335,"Fatboy Slim","Halfway Between the Gutter and the Stars",4,"Fatboy Slim","Halfway between the gutter and the stars (2000)","3,1Eur / 3,56$","CD",0.889,263980
+336,"Ellen Allien","Orchestra of Bubbles",4,"Ellen Allien","Orchestra of bubbles (2006, & Apparat)","7,5Eur / 8,62$","CD",0.714,808258
+337,"Four Tet","Rounds",4,"Four Tet","Rounds","4,68Eur / 5,38$","2CD",1.0,627511
+338,"Moderat","III",4,"Moderat","III (2016)","8,5Eur / 9,77$","2CD",0.667,2051476
+339,"Basement Jaxx","Kish Kash",4,"Basement Jaxx","Kish kash","0,99Eur / 1,13$","CD",1.0,688277
+340,"Goldfrapp","Supernature",4,"Goldfrapp","Supernature (2005)","2,95Eur / 3,39$","CD",0.667,482894
+341,"Austra","Feel It Break",4,"Austra","Feel it break (2011)","3,68Eur / 4,23$","CD",0.8,2045197
+342,"Laurent Garnier","Unreasonable Behaviour",4,"Laurent Garnier","Unreasonable behaviour (2000)","3,42Eur / 3,93$","CD",0.8,424877
+343,"Mazzy Star","Among My Swan",4,"Mazzy Star","Among my swan (1996)","9,46Eur / 10,87$","CD",0.833,186018
+344,"Morrissey","You Are The Quarry",4,"Morrissey","You are the quarry (2004)","3,1Eur / 3,56$","CD",0.833,651058
+345,"Tears for Fears","Songs from the Big Chair",4,"Tears for Fears","Songs from the big chair (1985)","26,29Eur / 30,23$","LP",0.889,24483
+346,"Travis","The Man Who",4,"Travis","Man who (1999)","3,4Eur / 3,91$","CD",0.6,242045
+347,"Tricky","Maxinquaye",4,"Tricky","Maxinquaye (1995)","4,5Eur / 5,17$","CD",0.667,73326
+348,"Franz Ferdinand","You Could Have It So Much Better",4,"Franz Ferdinand","You could have it so much better (2005)","2,95Eur / 3,39$","CD",0.9,498511
+349,"Badly Drawn Boy","The Hour of Bewilderbeast",4,"Badly Drawn Boy","Hour of bewilderbeast (UK)","2,95Eur / 3,39$","CD",0.75,252597
+350,"TV on the Radio","Desperate Youth, Blood Thirsty Babes",4,"TV on the Radio","Desperate youth, blood thirsty babes (2004)","2,95Eur / 3,39$","CD",0.9,847254
+351,"Beck","Sea Change",4,"Beck","Sea change (2002)","4,5Eur / 5,17$","CD",0.75,567596
+352,"Nick Cave & the Bad Seeds","Dig, Lazarus, Dig!!!",4,"Nick Cave & The Bad Seeds","Dig, Lazarus, dig! (2008)","5,91Eur / 6,79$","CD",0.875,585828
+353,"Patrick Watson","Close To Paradise",4,"Patrick Watson","Close to paradise","6,82Eur / 7,84$","CD",1.0,909529
+354,"Mercury Rev","All Is Dream (Expanded Edition)",4,"Mercury Rev","All is dream (2001)","2,95Eur / 3,39$","CD",0.625,299193
+355,"George Harrison","Cloud Nine",4,"George Harrison","Cloud nine (1987)","18,12Eur / 20,83$","LP",0.8,32605
+356,"Hot Chip","Dark and Stormy",4,"Hot Chip","Dark and stormy (2013, US)","5,74Eur / 6,6$","CD",0.714,1134309
+357,"Queen","Queen Forever",4,"Queen","Forever (2014)","6,22Eur / 7,15$","CD",0.667,2003719
+358,"David Bowie","The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered Version)",4,"David Bowie","Rise and fall of Ziggy Stardust and the Spiders from Mars","20,01Eur / 23,01$","LP",0.857,11603
+359,"Ramones","It's Alive",4,"Ramones","It's alive (1978)","5,73Eur / 6,58$","CD",0.75,55602
+360,"Mogwai","A Wrenched Virile Lore",4,"Mogwai","A wrenched virile lore (Promo, CDr, 2012)","6,76Eur / 7,77$","CD",0.625,1141169
+361,"Beastie Boys","Body Movin'",4,"Beastie Boys","Body movin' (1998, CD1)","2,1Eur / 2,41$","MCD",0.667,153264
+362,"Lou Rhodes","Beloved One",4,"Lou Rhodes","Beloved one (2005/06)","1,99Eur / 2,28$","CD",0.8,667438
+363,"Modest Mouse","Good News For People Who Love Bad News",3,"Modest Mouse","Good news for people who love bad news (2004)","4,15Eur / 4,77$","CD",0.9,876818
+364,"Nick Cave & the Bad Seeds","The Good Son (2010 - Remaster)",3,"Nick Cave & The Bad Seeds","Good son (1990)","5,67Eur / 6,52$","CD",0.7,114579
+365,"George Harrison","All Things Must Pass (Remastered 2014)",3,"George Harrison","All things must pass (US, 2014; 23 tracks)","26,79Eur / 30,8$","2CD",0.636,158695
+366,"Fontaines D.C.","A Hero's Death",3,"Fontaines D.C.","A hero's death","7,58Eur / 8,71$","CD",1.0,1080586
+367,"Xiu Xiu","Fabulous Muscles",3,"Xiu Xiu","Fabulous muscles","12,54Eur / 14,42$","CD",1.0,968728
+368,"David Bowie","The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",3,"David Bowie","Rise and fall of Ziggy Stardust and the Spiders from Mars","20,01Eur / 23,01$","LP",0.857,11603
+369,"Manic Street Preachers","This Is My Truth Tell Me Yours: 20 Year Collectors' Edition (Remastered)",3,"Manic Street Preachers","This is my truth tell me yours (1998)","3,4Eur / 3,91$","CD",0.625,161764
+370,"Kristin Hersh","Hips and Makers",3,"Kristin Hersh","Hips and makers (1994)","2,41Eur / 2,77$","CD",0.833,61175
+371,"Pearl Jam","Yield",3,"Pearl Jam","Yield (1998)","3,7Eur / 4,25$","CD",0.75,146809
+372,"Howard Shore","The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",3,"Howard Shore","Lord of the rings (motion picture trilogy soundtrack, 2003)","18,61Eur / 21,4$","3CD",0.643,805769
+373,"Tears for Fears","Songs From The Big Chair (Super Deluxe Edition)",3,"Tears for Fears","Songs from the big chair (1985)","26,29Eur / 30,23$","LP",0.667,24483
+374,"Supergrass","I Should Coco",3,"Supergrass","I should coco (1995)","3,27Eur / 3,76$","CD",0.8,82685
+375,"Fatboy Slim","You've Come a Long Way Baby (10th Anniversary Edition)",3,"Fatboy Slim","You've come a long way, baby (1998)","4,26Eur / 4,89$","CD",0.667,146122
+376,"Totally Enormous Extinct Dinosaurs","Trouble",3,"Totally Enormous Extinct Dinosaurs","Trouble (2012)","1,99Eur / 2,28$","CD",0.833,847890
+377,"Ian Brown","Unfinished Monkey Business",3,"Ian Brown","Unfinished monkey business (1997)","1,99Eur / 2,28$","CD",0.833,145793
+378,"Felix da Housecat","Kittenz and Thee Glitz",3,"Felix da Housecat","Kittenz and thee glitz (2001-2004)","4,28Eur / 4,92$","CD",0.875,2044788
+379,"Whale","We Care",3,"Whale","We care (1995)","6,34Eur / 7,29$","CD",0.75,83028
+380,"David Holmes","Let's Get Killed",3,"David Holmes","Let's get killed (1997)","3,1Eur / 3,56$","CD",0.833,298126
+381,"PJ Harvey","Is This Desire?",3,"P.J. Harvey","Is this desire? (1998)","3,25Eur / 3,73$","CD",0.833,197260
+382,"Japan","Adolescent Sex",3,"Japan","Adolescent sex (1978)","8,85Eur / 10,17$","CD",0.75,14250
+383,"Placebo","Without You I'm Nothing",3,"Placebo","Without you I'm nothing (1998)","3,15Eur / 3,62$","CD",0.833,247741
+384,"Queens of the Stone Age","Rated R - Deluxe Edition",3,"Queens of the Stone Age","R (2000)","3,25Eur / 3,73$","CD",0.6,208529
+385,"Stereo MC's","Connected",3,"Stereo MC's","Connected (1992)","3,99Eur / 4,58$","MCD",0.75,8264
+386,"Doves","Lost Souls",3,"Doves","Lost souls (1998)","3,6Eur / 4,14$","CD",0.75,264558
+387,"Hercules & Love Affair","Hercules & Love Affair",3,"Hercules & Love Affair","Same (2008)","2,95Eur / 3,39$","CD",0.6,765463
+388,"Ash","1977",3,"Ash","1977 (1996)","2,95Eur / 3,39$","CD",0.667,98249
+389,"Ian Brown","Music Of The Spheres",3,"Ian Brown","Music of the spheres (2001)","2,95Eur / 3,39$","CD",0.857,484217
+390,"Pink Floyd","Wish You Were Here [Remastered] (Remastered Version)",3,"Pink Floyd","Wish you were here (1975/1997)","11,49Eur / 13,21$","CD",0.667,1042826
+391,"Ride","Going Blank Again (Expanded)",3,"Ride","Going blank again (1992)","10,69Eur / 12,29$","CD",0.667,183705
+392,"Throwing Muses","The Real Ramona",3,"Throwing Muses","Real Ramona (1991)","12,06Eur / 13,86$","CD",0.667,99682
+393,"Simian","We Are Your Friends",3,"Simian","We are your friends (2002)","2,95Eur / 3,39$","CD",0.833,375779
+394,"Stardust","Music Sounds Better With You",3,"Stardust","Music sounds better with you (1998)","2,55Eur / 2,93$","MCD",0.857,145595
+395,"Alex Gopher","the child",3,"Alex Gopher","Child","1,73Eur / 1,98$","MCD",0.75,237415
+396,"The The","Dusk",3,"The The","Dusk (1992)","6,28Eur / 7,22$","CD",0.667,68196
+397,"Empire of the Sun","Walking On A Dream (10th Anniversary Edition)",3,"Empire Of The Sun","Walking on a dream (2008)","14,49Eur / 16,66$","CD",0.667,707699
+398,"Nick Cave & the Bad Seeds","No More Shall We Part (Remastered)",3,"Nick Cave & The Bad Seeds","No more shall we part (12 tracks, 2001)","4,23Eur / 4,86$","CD",0.714,299334
+399,"Depeche Mode","Music for the Masses (Deluxe)",3,"Depeche Mode","Music for the masses (14 tracks, 1987)","10,44Eur / 12$","CD",0.6,98290
+400,"Little Dragon","Machine Dreams",3,"Little Dragon","Machine dreams (2009, digi)","4,92Eur / 5,65$","CD",0.667,2044738
+401,"Eels","Souljacker",3,"Eels","Souljacker (2001)","3,1Eur / 3,56$","CD",0.667,344992
+402,"Prince","1999",3,"Prince","1999 (1982)","6,07Eur / 6,98$","CD",0.667,18723
+403,"Justin Timberlake","Justified",3,"Justin Timberlake","Justified (2002)","4,35Eur / 5$","CD",0.75,386449
+404,"...And You Will Know Us by the Trail of Dead","Source Tags & Codes",3,"..and you will know us by the Trail of Dead","Source tags & codes (2002)","2,65Eur / 3,04$","CD",0.929,495850
+405,"Simon & Garfunkel","Bridge Over Troubled Water",3,"Simon & Garfunkel","Bridge over troubled water (1970)","11,12Eur / 12,78$","LP",0.857,8899
+406,"Angelo Badalamenti","Soundtrack From Twin Peaks",3,"Angelo Badalamenti","Twin Peaks (soundtrack, 1990)","6,4Eur / 7,36$","CD",0.714,9809
+407,"Pixies","1988-1991  At The Bbc  Live",3,"Pixies","At the BBC","6,28Eur / 7,22$","CD",0.667,423726
+408,"Kasabian","Velociraptor",3,"Kasabian","Velociraptor (2011)","1,99Eur / 2,28$","CD",0.667,912246
+409,"Hurts","Happiness",3,"Hurts","Happiness (2010)","1,99Eur / 2,28$","CD",0.667,745320
+410,"N*E*R*D","She Wants To Move",3,"N*e*r*d","She wants to move (2 mixes, #vustdj284)","1,95Eur / 2,24$","MX",0.625,695129
+411,"Bloc Party","The Prayer",3,"Bloc Party","Prayer (2007)","1,95Eur / 2,24$","MCD",0.6,585373
+412,"Client","City",3,"Client","City (2004)","3,6Eur / 4,14$","CD",0.667,653484
+413,"R.E.M.","Automatic for the People",2,"R.E.M.","Automatic for the people (1992)","4,99Eur / 5,73$","CD",0.833,6908
+414,"Brian Eno","My Life In The Bush Of Ghosts",2,"Brian Eno","My life in the bush of ghosts (18 tracks, 1981/2006, EU, & David Byrne)","6,32Eur / 7,26$","CD",0.6,1135988
+415,"Thievery Corporation","Mirror Conspiracy",2,"Thievery Corporation","Mirror conspiracy (2000)","4,36Eur / 5,01$","CD",0.8,261868
+416,"MC 900 Ft. Jesus","Welcome to My Dream",2,"MC 900 ft. Jesus","Welcome to my dream (1991)","1,99Eur / 2,28$","CD",0.889,228353
+417,"Fun Boy Three","Waiting",2,"Fun Boy Three","Waiting (1983)","3,9Eur / 4,48$","LP",0.8,5587
+418,"Jefferson Airplane","Surrealistic Pillow",2,"Jefferson Airplane","Surrealistic pillow (1967)","7,49Eur / 8,61$","CD",0.8,586559
+419,"Beck","One Foot In The Grave (Deluxe Reissue)",2,"Beck","One foot in the grave (#klp28)","2,95Eur / 3,39$","CD",0.667,123677
+420,"Leonard Cohen","New Skin for the Old Ceremony",2,"Leonard Cohen","New skin for the old ceremony (11 tracks, 1974)","4,91Eur / 5,64$","CD",0.727,29016
+421,"Ry Cooder","Music by Ry Cooder",2,"Ry Cooder","Music by (1980-95)","8,62Eur / 9,91$","2CD",0.8,48796
+422,"Leonard Cohen","Songs of Love and Hate",2,"Leonard Cohen","Songs of love and hate (1971)","11,49Eur / 13,21$","LP",0.875,172871
+423,"Bruce Springsteen","Nebraska",2,"Bruce Springsteen","Nebraska (1982)","3,25Eur / 3,73$","CD",0.75,111294
+424,"Pearl Jam","Jeremy",2,"Pearl Jam","Jeremy (1992)","4,49Eur / 5,16$","MCD",0.75,4277
+425,"Yo La Tengo","Fakebook",2,"Yo La Tengo","Camp yo la tengo","3,57Eur / 4,1$","MCD",0.6,964620
+426,"Beck","Mellow Gold",2,"Beck","Mellow gold (1994)","3,72Eur / 4,27$","CD",0.75,46107
+427,"Oasis","(What's The Story) Morning Glory? (Deluxe Remastered Edition)",2,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.6,168116
+428,"Manic Street Preachers","Lifeblood",2,"Manic Street Preachers","Lifeblood (2004)","2,95Eur / 3,39$","CD",0.8,542794
+429,"Jamiroquai","Synkronized",2,"Jamiroquai","Synkronized (1999)","3,13Eur / 3,59$","CD",0.667,202273
+430,"Breakbot","By Your Side",2,"Breakbot","By your side (2012)","5,4Eur / 6,21$","CD",0.8,794907
+431,"A Flock of Seagulls","A Flock Of Seagulls",2,"A Flock Of Seagulls","Nightmares (1983)","1,47Eur / 1,69$","SL",0.667,33826
+432,"Soulwax","Any Minute Now",2,"Soulwax","Any minute now (2004)","3,4Eur / 3,91$","CD",0.8,547098
+433,"Armand van Helden","You Don't Know Me (feat. Duane Harden)",2,"Armand van Helden","You don't know me (1999, feat. Duane Harden)","1,95Eur / 2,24$","MCD",0.909,181796
+434,"Massive Attack","Collected",2,"Massive Attack","Collected (2006)","3,63Eur / 4,17$","CD",0.75,816463
+435,"St Germain","Tourist (Remastered)",2,"St. Germain","Tourist (2000)","2,04Eur / 2,34$","CD",0.6,299864
+436,"Goldfrapp","Felt Mountain",2,"Goldfrapp","Felt mountain (2000)","4,2Eur / 4,83$","CD",0.75,277366
+437,"dEUS","In A Bar, Under The Sea",2,"Deus","In a bar, under the sea (1996)","3,5Eur / 4,02$","CD",0.875,202602
+438,"Bauhaus","Burning from the Inside",2,"Bauhaus","Burning from the inside (1983; 14 tracks)","7,08Eur / 8,14$","CD",0.625,361904
+439,"Patti Smith","Banga",2,"Patti Smith","Banga (2012)","6,42Eur / 7,38$","CD",0.75,826742
+440,"Teenage Fanclub","Bandwagonesque",2,"Teenage Fanclub","Bandwagonesque (1991)","4,73Eur / 5,43$","CD",0.75,14354
+441,"Razorlight","Up All Night",2,"Razorlight","Up all night (2004)","1,99Eur / 2,28$","CD",0.8,545856
+442,"Modest Mouse","We Were Dead Before The Ship Even Sank",2,"Modest Mouse","We were dead before the ship even sank (2007)","4,63Eur / 5,32$","CD",0.909,524377
+443,"Bomb the Bass","Clear",2,"Bomb the Bass","Clear (1995)","3,1Eur / 3,56$","CD",0.8,50955
+444,"Faithless","Reverence",2,"Faithless","Reverence (1996)","2,04Eur / 2,34$","CD",0.667,64130
+445,"Laurie Anderson","Mister Heartbreak",2,"Laurie Anderson","Mister heartbreak (1983)","8,92Eur / 10,25$","CD",0.8,102671
+446,"Lee "Scratch" Perry","Scratch Attack!",2,"Lee 'Scratch' Perry","Arkology","29,76Eur / 34,22$","3CD",0.6,228546
+447,"Talk Talk","It's My Life",2,"Talk Talk","It's my life (1984)","5,59Eur / 6,42$","SL",0.8,23642
+448,"Simple Minds","New Gold Dream (81/82/83/84)",2,"Simple Minds","New gold dream (81-82-83-84)","4,86Eur / 5,58$","CD",1.0,7712
+449,"Beck","Midnite Vultures",2,"Beck","Midnite vulture's (1999)","4,2Eur / 4,83$","CD",0.75,184205
+450,"Nils Frahm","Spaces",2,"Nils Frahm","Spaces (2013, card)","9,5Eur / 10,92$","CD",0.6,1160531
+451,"Ocean Colour Scene","Marchin' Already",2,"Ocean Colour Scene","Marchin' already (1997)","2,95Eur / 3,39$","CD",0.833,164889
+452,"Simple Minds","Once Upon a Time (Super Deluxe)",2,"Simple Minds","Once upon a time (1985)","4,16Eur / 4,78$","CD",0.667,60967
+453,"Pet Shop Boys","Please",2,"Pet Shop Boys","Please (1986)","7,11Eur / 8,17$","CD",0.8,75511
+454,"Pet Shop Boys","Actually",2,"Pet Shop Boys","Actually (1987)","26,24Eur / 30,17$","LP",0.8,9486
+455,"Pink Floyd","The Piper at the Gates of Dawn",2,"Pink Floyd","Piper at the gates of dawn (#1a0381575001)","29,8Eur / 34,27$","LP",0.889,65514
+456,"Paul Weller","Wild Wood",2,"Paul Weller","Wild wood (1993)","4,65Eur / 5,34$","CD",0.8,50419
+457,"Elbow","The Seldom Seen Kid",2,"Elbow","Seldom seen kid (2008)","3,56Eur / 4,09$","CD",0.667,800712
+458,"Pink Floyd","The Dark Side Of The Moon [Remastered] (Remastered Version)",2,"Pink Floyd","Dark side of the moon (1973/94)","12,33Eur / 14,17$","CD",0.7,561531
+459,"Depeche Mode","Playing the Angel",2,"Depeche Mode","Playing the angel (2005, SACD/DVD)","38,31Eur / 44,05$","2CD",0.714,762954
+460,"Depeche Mode","Songs of Faith and Devotion (Deluxe)",2,"Depeche Mode","Songs of faith and devotion (live, 1993)","6,71Eur / 7,71$","CD",0.7,114457
+461,"Depeche Mode","Music for the Masses",2,"Depeche Mode","Music for the masses (14 tracks, 1987)","10,44Eur / 12$","CD",0.667,98290
+462,"R.E.M.","New Adventures in Hi-Fi",2,"R.E.M.","New adventures in hi-fi (1996)","1,99Eur / 2,28$","CD",0.833,98256
+463,"Clinic","Walking With Thee",2,"Clinic","Walking with thee (2001)","1,99Eur / 2,28$","CD",0.8,318067
+464,"Gomez","Bring It On",2,"Gomez","Bring it on (cardsleeve)","1,47Eur / 1,69$","MCD",0.8,535920
+465,"TV on the Radio","Dear Science",2,"TV on the Radio","Dear science (2008)","2,83Eur / 3,25$","CD",0.857,800705
+466,"Cornershop","When I Was Born For The 7th Time (Expanded)",2,"Cornershop","When I was born for the 7th time (1997)","2,95Eur / 3,39$","CD",0.818,117256
+467,"Zero 7","Simple Things",2,"Zero 7","Simple things (2001)","9,86Eur / 11,33$","2CD",0.8,822319
+468,"Melvins","Houdini",2,"Melvins","Houdini (1993)","7,56Eur / 8,69$","CD",0.667,232242
+469,"Meat Puppets","Too High To Die",2,"Meat Puppets","Too high to die (1994)","10,64Eur / 12,23$","CD",0.857,13103
+470,"Morrissey","Low in High School (Deluxe Edition)",2,"Morrissey","Low in high school (2017)","5,74Eur / 6,6$","CD",0.625,2045785
+471,"Underworld","Barking",2,"Underworld","Barking","6,32Eur / 7,26$","CD",1.0,689137
+472,"Groove Armada","Lovebox",2,"Groove Armada","Lovebox (2002)","1,99Eur / 2,28$","CD",0.75,343169
+473,"Badly Drawn Boy","About A Boy Soundtrack",2,"Badly Drawn Boy","About a boy (orig. soundtrack, 2002)","1,99Eur / 2,28$","CD",0.75,409234
+474,"Pixies","Head Carrier",2,"Pixies","Head carrier (2016)","7,32Eur / 8,41$","CD",0.75,957727
+475,"Elbow","Asleep in the Back",2,"Elbow","Asleep in the back (2001)","3,23Eur / 3,71$","CD",0.833,302955
+476,"My Morning Jacket","Z",2,"My Morning Jacket","Z (2005)","7,51Eur / 8,63$","CD",0.8,510363
+477,"Boney M.","Take the Heat Off Me",2,"Boney M.","Take the heat off me (1976)","16,14Eur / 18,56$","LP",0.875,70059
+478,"World Party","Bang!",2,"World Party","Bang! (1993)","2,95Eur / 3,39$","CD",0.75,59398
+479,"Coldplay","Parachutes",2,"Coldplay","Parachutes (2000)","4,9Eur / 5,63$","CD",0.667,213915
+480,"Van She","Idea Of Happiness",2,"Van She","Idea of happiness (2012, digi)","3,83Eur / 4,4$","CD",0.714,2045507
+481,"Porno for Pyros","Porno for Pyros",2,"Porno for Pyros","Pets (1993)","2,1Eur / 2,41$","MCD",0.6,57954
+482,"Shakedown","You Think You Know",2,"Shakedown","You think you know (2002)","2,95Eur / 3,39$","CD",0.8,320649
+483,"Phoenix","If I Ever Feel Better",2,"Phoenix","If I ever feel better (#8971422)","1,01Eur / 1,16$","MCD",0.857,272169
+484,"Kid Loco","A Grand Love Story",2,"Kid Loco","A grand love story (1998)","7,88Eur / 9,06$","2CD",0.857,460147
+485,"Massive Attack","Protection",2,"Massive Attack","Protection (1994)","3,76Eur / 4,32$","CD",0.75,130517
+486,"Blur","Modern Life Is Rubbish [Special Edition]",2,"Blur","Modern life is rubbish (1993)","3,01Eur / 3,46$","CD",0.625,11707
+487,"Frank Black","Honeycomb",2,"Frank Black","Honeycomb (2005)","5,37Eur / 6,17$","CD",0.75,1090191
+488,"Cheap Trick","Heaven Tonight",2,"Cheap Trick","Heaven tonight (1978)","13,44Eur / 15,45$","LP",0.8,17372
+489,"Queens of the Stone Age","Era Vulgaris",2,"Queens of the Stone Age","Era vulgaris (2007)","7,26Eur / 8,34$","CD",0.875,532355
+490,"Rihanna","Good Girl Gone Bad: Reloaded",2,"Rihanna","Good girl gone bad: reloaded (2008)","1,99Eur / 2,28$","CD",0.857,700987
+491,"Talking Heads","Remain in Light",2,"Talking Heads","Remain in light (1980)","20,67Eur / 23,77$","LP",0.833,10277
+492,"Tim Buckley","Goodbye and Hello",2,"Tim Buckley","Goodbye and hello (1967)","0,99Eur / 1,13$","MCD",0.833,189955
+493,"Fatboy Slim","Palookaville",2,"Fatboy Slim","Palookaville (2004)","1,99Eur / 2,28$","CD",0.75,444942
+494,"Fiona Apple","When the Pawn...",2,"Fiona Apple","When the pawn (1999)","5,99Eur / 6,88$","CD",0.833,206283
+495,"Simon & Garfunkel","Greatest Hits",2,"Simon & Garfunkel","Greatest hits (AMIGA)","9,31Eur / 10,7$","LP",0.8,258443
+496,"Snap!","Rhythm Is A Dancer Volume 08",2,"Snap!","Rhythm is a dancer (1992)","12,29Eur / 14,13$","SL",0.625,7599
+497,"Traveling Wilburys","The Traveling Wilburys, Vol. 1",2,"Traveling Wilburys","Vol. 1 (1988)","5,05Eur / 5,8$","CD",0.667,169888
+498,"U.N.P.O.C.","Fifth Column",2,"U.N.P.O.C.","Fifth column (2003)","2,83Eur / 3,25$","CD",0.75,407727
+499,"Nick Cave & the Bad Seeds","Red Right Hand (Theme from 'Peaky Blinders')",2,"Nick Cave & The Bad Seeds","Red right hand (1994)","9,46Eur / 10,87$","MCD",0.615,309730
+500,"AC/DC","The Razors Edge",2,"AC/DC","Razors edge (1990)","5,15Eur / 5,92$","CD",0.6,14814
+501,"Sash!","It's My Life",2,"Sash!","It's my life (1997)","3,1Eur / 3,56$","CD",0.8,110580
+502,"Technohead","I Wanna Be a Hippy",2,"Technohead","I wanna be a hippy (5 versions, 1995)","1,95Eur / 2,24$","MCD",0.667,61492
+503,"Beck","Loser",2,"Beck","Loser (1994)","2,4Eur / 2,76$","MCD",0.667,59666
+504,"Whitney Houston","Whitney",2,"Whitney Houston","Whitney (AMIGA)","7,2Eur / 8,28$","LP",0.667,215188
+505,"Diana Ross","Diana",2,"Diana Ross","Diana (1980)","6Eur / 6,9$","LP",0.667,11114
+506,"Daryl Hall & John Oates","Voices",2,"Daryl Hall & John Oates","Voices (1980)","3,01Eur / 3,46$","LP",0.833,24823
+507,"S.C.U.M","Again Into Eyes",2,"S.c.u.m","Again into eyes (2011, card)","0,99Eur / 1,13$","CD",0.667,1004547
+508,"Talking Heads","Fear Of Music (Deluxe Version)",2,"Talking Heads","Fear of music (1979)","11,13Eur / 12,79$","CD",0.625,142569
+509,"Walter TV","Carpe Diem",2,"Walter TV","Carpe diem (Promo)","0,99Eur / 1,13$","CD",0.8,980497
+510,"Wu-Tang Clan","Legend Of The Wu-Tang: Wu-Tang Clan's Greatest Hits",2,"Wu-Tang Clan","Legend of the Wu-Tang-Greatest hits (2004)","4,3Eur / 4,94$","CD",0.6,599214
+511,"Kate Bush","Never for Ever",2,"Kate Bush","Never for ever (1980)","16,26Eur / 18,69$","LP",0.833,506544
+512,"Elvis Presley","Elvis' Christmas Album",2,"Elvis Presley","Christmas album (#cds1155)","5,56Eur / 6,39$","LP",0.8,248805
+513,"Chuck Berry","Rock 'N' Roll Rarities",2,"Chuck Berry","Rock 'n' roll superstar","4,97Eur / 5,71$","LP",0.714,1031383
+514,"Miracle Fortress","Five Roses",2,"Miracle Fortress","Five roses","2,72Eur / 3,12$","CD",1.0,948862
+515,"Evan Dando","Baby I'm Bored",2,"Evan Dando","Baby I'm bored (2003, digi)","2,95Eur / 3,39$","CD",0.714,515268
+516,"Savages","Adore Life",2,"Savages","Adore life (digi)","6,44Eur / 7,4$","CD",0.75,881944
+517,"Sunset Rubdown","Random Spirit Lover",2,"Sunset Rubdown","Random spirit lover (2007, US)","6,76Eur / 7,77$","CD",0.714,1140377
+518,"Beach Slang","The Things We Do To Find People Who Feel Like Us",2,"Beach Slang","Things We Do To Find People Who Feel Like Us (2015, 10 tracks)","6,32Eur / 7,26$","CD",0.75,1136985
+519,"Foxygen","…And Star Power",2,"Foxygen","..and Star Power (2014, foc-cardsleeve)","7Eur / 8,05$","2CD",0.667,864253
+520,"alt-J","This Is All Yours",2,"alt-J","This is all yours (2014, digi)","3,63Eur / 4,17$","CD",0.714,1039864
+521,"Philip Glass","Koyaanisqatsi (Soundtrack)",2,"Philip Glass","Koyaanisqatsi (soundtrack, 1983)","6,3Eur / 7,24$","CD",0.8,95125
+522,"Ramones","End of the Century",2,"Ramones","End of the century (1980)","6,57Eur / 7,55$","CD",0.833,299577
+523,"Totally Enormous Extinct Dinosaurs","Trouble EP",2,"Totally Enormous Extinct Dinosaurs","Trouble (2012)","1,99Eur / 2,28$","CD",0.714,847890
+524,"M.I.A.","Arular",2,"M.i.a.","Arular (2005)","2,22Eur / 2,55$","CD",0.667,498126
+525,"Thievery Corporation","The Mirror Conspiracy",2,"Thievery Corporation","Mirror conspiracy (2000)","4,36Eur / 5,01$","CD",0.667,261868
+526,"Kings of Convenience","Quiet Is the New Loud",2,"Kings of Convenience","Quiet is the new loud (2001)","3,25Eur / 3,73$","CD",0.889,576977
+527,"Depeche Mode","Violator (Deluxe)",1,"Depeche Mode","Violator (1990/2006)","8,6Eur / 9,89$","CD",0.6,496079
+528,"Depeche Mode","Playing the Angel (Deluxe)",1,"Depeche Mode","Playing the angel (2005, SACD/DVD)","38,31Eur / 44,05$","2CD",0.625,762954
+529,"New Order","Brotherhood",1,"New Order","Brotherhood (1986)","13,97Eur / 16,06$","CD",0.75,106430
+530,"Rodríguez","Cold Fact",1,"Rodriguez","Cold fact (2008, US)","17,49Eur / 20,11$","CD",0.6,967419
+531,"Duke Ellington","Three Suites",1,"Duke Ellington","Ellington suites","4,42Eur / 5,08$","LP",0.75,2037530
+532,"Jamie xx","In Waves",1,"Jamie xx","In colour","5,05Eur / 5,8$","CD",0.6,1004425
+533,"Malcolm McLaren","Duck Rock",1,"Malcolm McLaren","Duck rock (1983/87)","8,36Eur / 9,61$","CD",0.8,9283
+534,"Smokie","The Best Of Smokie",1,"Smokie","Best of","1,99Eur / 2,28$","CD",0.75,22812
+535,"Sally Oldfield","Femme",1,"Sally Oldfield","Femme (1987)","4,5Eur / 5,17$","LP",0.75,21302
+536,"Iron & Wine","The Creek Drank the Cradle",1,"Iron & Wine","Creek drank the cradle (2002, US)","1,99Eur / 2,28$","CD",0.75,1079158
+537,"Take That","Beautiful World",1,"Take That","Beautiful world (2006)","2,95Eur / 3,39$","CD",0.8,544060
+538,"AC/DC","High Voltage",1,"AC/DC","High voltage (1976/2003, digi)","5,91Eur / 6,79$","CD",0.6,700151
+539,"Iggy Pop","Avenue B",1,"Iggy Pop","Avenue B (1999)","7,27Eur / 8,36$","CD",0.8,206005
+540,"Leonard Cohen","Songs of Leonard Cohen",1,"Leonard Cohen","Songs of","8,06Eur / 9,26$","LP",1.0,35696
+541,"Johnny Cash","American IV: The Man Comes Around",1,"Johnny Cash","American IV: The man comes around (2002)","6,61Eur / 7,6$","CD",0.889,448139
+542,"Foo Fighters","The Colour and the Shape",1,"Foo Fighters","Colour and the shape (1997)","3,9Eur / 4,48$","CD",0.857,116381
+543,"Howlin' Wolf","Howlin' Wolf",1,"Howlin' Wolf","Story","2,13Eur / 2,44$","CD",0.667,100864
+544,"Screamin' Jay Hawkins","At Home With Screamin' Jay Hawkins",1,"Screamin' Jay Hawkins","At home with (1958/2017, Copacetic-Rec.)","9,9Eur / 11,38$","CD",0.75,1157543
+545,"Wojciech Kilar","Bram Stoker's Dracula: Original Motion Picture Soundtrack",1,"Wojciech Kilar","Bram Stoker's Dracula (soundtrack, 1992)","11,56Eur / 13,29$","CD",0.6,8193
+546,"Wilco","summerteeth",1,"Wilco","Summerteeth (1999)","4,92Eur / 5,65$","CD",0.667,227954
+547,"Carpenters","A Kind Of Hush",1,"Carpenters","A kind of hush (1976)","4,75Eur / 5,46$","LP",0.833,85290
+548,"Palma Violets","180",1,"Palma Violets","180 (2013)","1,02Eur / 1,17$","CD",0.75,889184
+549,"Liz Phair","Exile in Guyville",1,"Liz Phair","Exile in Guyville (1993)","5,67Eur / 6,52$","CD",0.833,175876
+550,"Teenage Fanclub","Grand Prix",1,"Teenage Fanclub","Grand prix (1995)","3,74Eur / 4,3$","CD",0.8,280575
+551,"Bring Me the Horizon","amo",1,"Bring me the horizon","Sempiternal","8,35Eur / 9,6$","CD",0.667,1080688
+552,"Oasis","[What's the Story] Morning Glory? [Remastered] (Deluxe Version)",1,"Oasis","(What's the story) morning glory? (1995)","8,83Eur / 10,15$","CD",0.6,168116
+553,"Bombay Bicycle Club","So Long, See You Tomorrow",1,"Bombay Bicycle Club","So long, see you tomorrow (2014, digi)","1,55Eur / 1,78$","CD",0.8,1073769
+554,"X-Press 2","Lazy (feat. David Byrne)",1,"X-Press 2","Lazy (2002, feat. David Byrne)","1,47Eur / 1,69$","MCD",0.857,312611
+555,"Faze Action","Moving Cities",1,"Faze Action","Moving cities (Promo)","0,99Eur / 1,13$","CD",0.8,232767
+556,"Derrick May","Innovator",1,"Derrick May","Innovator","12,05Eur / 13,85$","2CD",1.0,379271
+557,"Layo & Bushwacka!","Night Works",1,"Layo & Bushwacka!","Night works (2002)","2,04Eur / 2,34$","CD",0.8,746662
+558,"Michael Rother","Flammende Herzen",1,"Michael Rother","Flammende Herzen (1977)","14,41Eur / 16,57$","CD",0.8,99728
+559,"Grace Jones","Warm Leatherette",1,"Grace Jones","Warm leatherette (1980)","9,59Eur / 11,02$","CD",0.8,81645
+560,"Millionaire","Outside the Simian Flock",1,"Millionaire","Outside the simian flock (2001)","1,99Eur / 2,28$","CD",0.833,329418
+561,"Hot Hot Heat","Make Up the Breakdown",1,"Hot Hot Heat","Make up the breakdown (2003)","1,99Eur / 2,28$","CD",0.857,776088
+562,"David Bowie","Scary Monsters",1,"David Bowie","Scary monsters (1980)","17,78Eur / 20,44$","LP",0.8,10490
+563,"James","Seven",1,"James","Seven (1992)","3,76Eur / 4,32$","CD",0.667,3392
+564,"And So I Watch You From Afar","And So I Watch You From Afar",1,"And so I watch you from Afar","Same (digi)","5,83Eur / 6,7$","CD",0.778,948992
+565,"Harald Grosskopf","Synthesist",1,"Harald Grosskopf","Synthesist (1980)","8,08Eur / 9,29$","CD",0.75,476061
+566,"Lou Reed","The Blue Mask",1,"Lou Reed","Blue mask (1982)","2,88Eur / 3,31$","CD",0.667,122234
+567,"Simple Minds","Good News From The Next World",1,"Simple Minds","Good news from the next world (1995)","2,95Eur / 3,39$","CD",0.889,56153
+568,"Stereo Total","Musique Automatique",1,"Stereo Total","Musique automatique (2001)","4,82Eur / 5,54$","CD",0.8,375747
+569,"Coldplay","A Rush of Blood to the Head",1,"Coldplay","A rush of blood to the head (2002)","3,32Eur / 3,81$","CD",0.889,396413
+570,"Neneh Cherry","Homebrew",1,"Neneh Cherry","Homebrew (1992)","3,25Eur / 3,73$","CD",0.75,101675
+571,"...And You Will Know Us by the Trail of Dead","Madonna",1,"..and you will know us by the Trail of Dead","Madonna (2000)","2,31Eur / 2,65$","CD",0.917,334108
+572,"Bran Van 3000","Glee",1,"Bran Van 3000","Glee (1998)","4,32Eur / 4,96$","CD",0.8,181940
+573,"Fun Lovin' Criminals","Come Find Yourself",1,"Fun Lovin' Criminals","Come find yourself (Promo-ep)","1,1Eur / 1,26$","MCD",0.857,213375
+574,"Lali Puna","Scary World Theory",1,"Lali Puna","Scary world theory (2001, digi)","7,84Eur / 9,01$","CD",0.714,311538
+575,"Nearly God","Nearly God",1,"Nearly God","Poems","1,95Eur / 2,24$","MCD",0.667,308604
+576,"Arab Strap","Elephant Shoe",1,"Arab Strap","Elephant shoe (11 tracks)","4,93Eur / 5,66$","CD",0.667,703306
+577,"Yo La Tengo","Electr-o-pura",1,"Yo La Tengo","Electr-o-pura (1995, #5049552)","5,47Eur / 6,29$","CD",0.667,273958
+578,"Donovan","The Hurdy Gurdy Man",1,"Donovan","Hurdy gurdy man (1968)","8,36Eur / 9,61$","LP",0.667,101536
+579,"Blondie","Eat to the Beat",1,"Blondie","Eat to the beat (1979)","13,78Eur / 15,84$","LP",0.833,5482
+580,"Eric Prydz","Call on Me (Radio Mix)",1,"Eric Prydz","Call on me (2004)","7,54Eur / 8,67$","MCD",0.625,441702
+581,"Leftfield","Rhythm and Stealth",1,"Leftfield","Rhythm and stealth (1999)","3,1Eur / 3,56$","CD",0.8,245585
+582,"Kent","Hagnesta Hill",1,"Kent","Hagnesta hill (2000)","3,1Eur / 3,56$","CD",0.75,207290
+583,"Muse","Showbiz",1,"Muse","Showbiz (1999)","3,4Eur / 3,91$","CD",0.667,271535
+584,"Thompson Twins","Into the Gap",1,"Thompson Twins","Into the gap (1984)","9,07Eur / 10,43$","LP",0.833,5027
+585,"Tears for Fears","Elemental",1,"Tears for Fears","Elemental (1993)","6,51Eur / 7,48$","CD",0.8,9328
+586,"Simple Minds","Sparkle in the Rain",1,"Simple Minds","Sparkle in the rain (1983)","3,65Eur / 4,19$","CD",0.857,98296
+587,"Grant Lee Buffalo","Fuzzy",1,"Grant Lee Buffalo","Fuzzy (cardsleeve)","0,99Eur / 1,13$","MCD",0.8,1000428
+588,"Charles Bradley","No Time for Dreaming",1,"Charles Bradley","No time for dreaming (US, digi)","7,75Eur / 8,91$","CD",0.75,2049470
+589,"Die Sterne","Posen",1,"Die Sterne","Posen (1996)","3,1Eur / 3,56$","CD",0.75,202088
+590,"Tocotronic","Pure Vernunft Darf Niemals Siegen (Deluxe Edition)",1,"Tocotronic","Pure Vernunft darf niemals siegen (2005)","2,51Eur / 2,88$","CD",0.667,583878
+591,"Albert Hammond Jr","Yours To Keep",1,"Albert Hammond, jr.","Yours to keep (2006, digi)","5,4Eur / 6,21$","CD",0.75,707815
+592,"R.E.M.","Reveal",1,"R.E.M.","Reveal (2001)","2,95Eur / 3,39$","CD",0.667,283751
+593,"Noel Gallagher's High Flying Birds","Noel Gallagher's High Flying Birds",1,"Noel Gallagher's High Flying Birds","Same (2011)","4,51Eur / 5,18$","CD",0.714,830555
+594,"Inspiral Carpets","Devil Hopping",1,"Inspiral Carpets","Devil hopping (1994)","4,23Eur / 4,86$","CD",0.8,57839
+595,"Richard Ashcroft","Alone With Everybody",1,"Richard Ashcroft","Alone with everybody (2000)","0,99Eur / 1,13$","MCD",0.833,691205
+596,"Embrace","The Good Will Out",1,"Embrace","Good will out (1998)","1,99Eur / 2,28$","CD",0.667,225925
+597,"Space","Spiders",1,"Space","Spiders (1996)","2,13Eur / 2,44$","CD",0.667,261995
+598,"Pink Floyd","Wish You Were Here",1,"Pink Floyd","Wish you were here (1975/1997)","11,49Eur / 13,21$","CD",0.857,1042826
+599,"INXS","Shabooh Shoobah (Remastered)",1,"Inxs","Shabooh shoobah (1982)","4,16Eur / 4,78$","CD",0.6,38017
+600,"R.E.M.","Up",1,"R.E.M.","Up (1998)","2,22Eur / 2,55$","CD",0.667,191482
+601,"Patti Smith","Land (1975-2002)",1,"Patti Smith","Land 1975-2002","10,41Eur / 11,97$","2CD",1.0,544082
+602,"Depeche Mode","Sounds of the Universe",1,"Depeche Mode","Sounds of the universe (2009)","6,81Eur / 7,83$","CD",0.857,700691
+603,"Depeche Mode","Construction Time Again (Deluxe)",1,"Depeche Mode","Construction time again (1983)","16,03Eur / 18,43$","CD",0.714,9410
+604,"Depeche Mode","Delta Machine",1,"Depeche Mode","Delta machine (2013, foc-cardsleeve)","7,48Eur / 8,6$","CD",0.667,856490
+605,"Depeche Mode","Songs of Faith and Devotion (2006 Remaster)",1,"Depeche Mode","Songs of faith and devotion (live, 1993)","6,71Eur / 7,71$","CD",0.636,114457
+606,"Depeche Mode","some great reward (2006 remaster)",1,"Depeche Mode","Some great reward (1984)","14,81Eur / 17,03$","CD",0.625,82108
+607,"Depeche Mode","Construction Time Again",1,"Depeche Mode","Construction time again (1983)","16,03Eur / 18,43$","CD",0.833,9410
+608,"Depeche Mode","The Singles 86-98",1,"Depeche Mode","Singles 86>98","6,92Eur / 7,95$","2CD",0.8,143919
+609,"Depeche Mode","Never Let Me Down Again",1,"Depeche Mode","Never let me down again (1987, black vinyl)","8,01Eur / 9,21$","SL",0.7,416338
+610,"Depeche Mode","Personal Jesus",1,"Depeche Mode","Personal Jesus (1989)","23,25Eur / 26,73$","SL",0.8,34635
+611,"Art Brut","Bang Bang Rock And Roll",1,"Art Brut","Bang bang rock & roll (2005)","2,22Eur / 2,55$","CD",0.714,731128
+612,"Blur","Modern Life Is Rubbish",1,"Blur","Modern life is rubbish (1993)","3,01Eur / 3,46$","CD",0.833,11707
+613,"Steven Wilson","Get All You Deserve (live)",1,"Steven Wilson","Get all you deserve (Blu-ray, 2 CD)","18,13Eur / 20,84$","3CD",0.6,969512
+614,"Kings of Leon","Aha Shake Heartbreak",1,"Kings of Leon","Aha shake heartbreak (2004, #6656352)","2,51Eur / 2,88$","CD",0.75,508626
+615,"Ferry Corsten","L.E.F.",1,"Ferry Corsten","L.E.F. (2006)","9,88Eur / 11,36$","CD",0.75,554255
+616,"Bob Sinclar","Western Dream",1,"Bob Sinclar","Western dream (2006, digi)","1,99Eur / 2,28$","CD",0.667,544089
+617,"Everything But the Girl","Amplified Heart",1,"Everything but the Girl","Amplified heart (1994)","4,68Eur / 5,38$","CD",0.857,72269
+618,"Red Hot Chili Peppers","By the Way (Deluxe Edition)",1,"Red Hot Chili Peppers","By the way (#2424602)","2,44Eur / 2,8$","MCD",0.7,329340
+619,"The Spinto Band","Nice and Nicely Done",1,"The Spinto Band","Nice and nicely done (10 tracks, 2005, digi)","1,99Eur / 2,28$","CD",0.636,1098595
+620,"White Lies","To Lose My Life ...",1,"White Lies","To lose my life (10 tracks, 2009)","2,98Eur / 3,42$","CD",0.667,715095
+621,"Morrissey","Bona Drag",1,"Morrissey","Bona drag (1990)","3,1Eur / 3,56$","CD",0.75,55785
+622,"Sofa Surfers","Transit",1,"Sofa Surfers","Transit (1997)","4,35Eur / 5$","CD",0.75,152033
+623,"Everything But the Girl","Walking Wounded",1,"Everything but the Girl","Walking wounded (1996)","0,99Eur / 1,13$","MCD",0.857,89407
+624,"Stereo MC's","Deep Down & Dirty",1,"Stereo MC's","Deep down & dirty (2001)","3,44Eur / 3,95$","CD",0.833,300205
+625,"Ian Brown","Golden Greats",1,"Ian Brown","Golden greats (10 tracks)","2,41Eur / 2,77$","CD",0.667,633424
+626,"Wolf Gang","Suego Faults",1,"Wolf Gang","Suego faults (2011)","0,99Eur / 1,13$","CD",0.8,773272
+627,"San Cisco","Gracetown",1,"San Cisco","Gracetown (2015)","1,99Eur / 2,28$","CD",0.75,2038802
+628,"George Benson","The George Benson Collection",1,"George Benson","Collection (1976-81)","3,25Eur / 3,73$","CD",0.6,120449
+629,"Philip Bailey","Chinese Wall",1,"Philip Bailey","Chinese wall (1984)","4,33Eur / 4,97$","LP",0.8,6958
+630,"Indeep","Last Night a DJ Saved My Life",1,"Indeep","Last night a dj saved my life (1983)","9,6Eur / 11,04$","SL",0.889,18303
+631,"Sandra","18 Greatest Hits",1,"Sandra","18 greatest hits (1992, Virgin)","11,88Eur / 13,66$","CD",0.667,49334
+632,"Anita Ward","Ring My Bell",1,"Anita Ward","Ring my bell (1979)","1,46Eur / 1,67$","SL",0.833,22142
+633,"Earth, Wind & Fire","I Am",1,"Earth Wind & Fire","I am (1979)","7,63Eur / 8,77$","LP",0.833,20607
+634,"Sister Sledge","We Are Family",1,"Sister Sledge","We are family ('93 Mixes)","2,1Eur / 2,41$","MCD",0.714,16844
+635,"Earth, Wind & Fire","Raise!",1,"Earth Wind & Fire","Raise! (1981)","5,83Eur / 6,7$","CD",0.8,297632
+636,"Daryl Hall & John Oates","The Very Best of Daryl Hall / John Oates",1,"Daryl Hall & John Oates","Very best of (18 tracks, 2001)","4,52Eur / 5,19$","CD",0.636,301711
+637,"Miike Snow","Happy To You",1,"Miike Snow","Happy to you (2012)","6,76Eur / 7,77$","CD",0.833,1141123
+638,"Dead Can Dance","Wake",1,"Dead can Dance","Wake (2003)","9,91Eur / 11,39$","2CD",0.8,653497
+639,"Built to Spill","Perfect From Now On",1,"Built to Spill","Perfect from now on (1997)","7,3Eur / 8,39$","CD",0.875,142614
+640,"Ladytron","Light & Magic",1,"Ladytron","Light & magic (2002)","9Eur / 10,35$","CD",0.75,1149694
+641,"Happy Mondays","Hallelujah",1,"Happy Mondays","Hallelujah (1990)","4,75Eur / 5,46$","CD",0.75,129982
+642,"Boozoo Bajou","Satta",1,"Boozoo Bajou","Satta (2001, digi)","8Eur / 9,2$","CD",0.6,776722
+643,"Mint Royale","On The Ropes",1,"Mint Royale","On the ropes (2000)","3,1Eur / 3,56$","CD",0.833,235889
+644,"Grand National","Kicking the National Habit",1,"Grand National","Kicking the national habit","1,99Eur / 2,28$","CD",1.0,968730
+645,"Kate Bush","Aerial",1,"Kate Bush","Aerial (2005, foc-card)","8,3Eur / 9,54$","2CD",0.6,507637
+646,"Moloko","I Am Not a Doctor",1,"Moloko","I am not a doctor (1998)","3,25Eur / 3,73$","CD",0.857,166419
+647,"Sneaker Pimps","Becoming X",1,"Sneaker Pimps","Becoming x (1996)","5,66Eur / 6,5$","CD",0.8,100792
+648,"Tom Waits","Rain Dogs",1,"Tom Waits","Rain dogs (1985)","3,49Eur / 4,01$","CD",0.8,159444
+649,"Moloko","Things to Make and Do",1,"Moloko","Things to make and do (2000)","1,99Eur / 2,28$","CD",0.857,232822
+650,"Bob Sinclar","Paradise",1,"Bob Sinclar","Paradise (1998)","2,31Eur / 2,65$","CD",0.75,487635
+651,"Mr. Oizo","Flat Beat",1,"Mr. Oizo","Flat beat (1999)","3,95Eur / 4,54$","MCD",0.8,170985
+652,"Superfunk","Hold Up (Remastered)",1,"Superfunk","Hold up (2000)","2,95Eur / 3,39$","CD",0.6,278481
+653,"Demon","Midnight Funk",1,"Demon","Midnight funk (1999)","2,41Eur / 2,77$","CD",0.75,264696
+654,"Placebo","Sleeping with Ghosts",1,"Placebo","Sleeping with ghosts (2003/12)","2,95Eur / 3,39$","CD",0.8,2028452
+655,"Tears for Fears","The Hurting",1,"Tears for Fears","Hurting (1983)","24,45Eur / 28,11$","LP",0.667,16446
+656,"Roxy Music","For Your Pleasure (Remastered)",1,"Roxy Music","For your pleasure (1973)","5,74Eur / 6,6$","CD",0.714,80616
+657,"Seefeel","Succour",1,"Seefeel","Succour","11,04Eur / 12,69$","CD",1.0,50658
+658,"Carl Craig","More Songs About Food and Revolutionary Art",1,"Carl Craig","More songs about feed and revolutionary art (1997)","14,52Eur / 16,69$","CD",0.727,192398
+659,"Prince","Sign "O" The Times",1,"Prince","Sign o' the times (1987)","8,44Eur / 9,7$","2CD",0.833,95899
+660,"Dominique A","A L'arrivée",1,"Dominique A","A l'arrivee (2002)","2,96Eur / 3,4$","CD",0.75,984199
+661,"Rage Against the Machine","The Battle of Los Angeles",1,"Rage against the Machine","Battle of Los Angeles (1999)","4,48Eur / 5,15$","CD",0.889,189836
+662,"...And You Will Know Us by the Trail of Dead","Source Tags & Codes (Deluxe)",1,"..and you will know us by the Trail of Dead","Source tags & codes (2002)","2,65Eur / 3,04$","CD",0.867,495850
+663,"Tindersticks","across six leap years",1,"Tindersticks","Across six leap years (2013, digi)","10,45Eur / 12,01$","CD",0.714,899936
+664,"Art Feynman","Blast Off Through The Wicker",1,"Art Feynman","Blast off through the wicker (cardsleeve)","1,99Eur / 2,28$","CD",0.875,1049379
+665,"Nouvelle Vague","Bande à Part",1,"Nouvelle Vague","Bande  part (2006)","3,31Eur / 3,8$","CD",0.667,655808
+666,"Smoke City","Flying Away",1,"Smoke City","Flying away (1997)","3,9Eur / 4,48$","CD",0.8,186120
+667,"Timber Timbre","Sincerely, Future Pollution",1,"Timber Timbre","Sincerely future pollution (2017, digi)","7,52Eur / 8,64$","CD",0.714,899984
+668,"Thurston Moore","Psychic Hearts",1,"Thurston Moore","Psychic hearts (1995)","7,44Eur / 8,55$","CD",0.8,58989
+669,"Built to Spill","The Normal Years",1,"Built to Spill","Normal years (1996)","10,4Eur / 11,96$","CD",0.714,746770
+670,"Kelly Clarkson","Breakaway",1,"Kelly Clarkson","Breakaway (2005)","1,99Eur / 2,28$","CD",0.75,470386
+671,"Roxy Music","Manifesto (Remastered)",1,"Roxy Music","Manifesto (1979)","8,35Eur / 9,6$","LP",0.6,16398
+672,"Zero 7","When It Falls",1,"Zero 7","When it falls (2004)","3,62Eur / 4,16$","CD",0.833,413183
+673,"Bonnie "Prince" Billy","I See A Darkness",1,"Bonnie 'Prince' Billy","I see a darkness (1999)","12,08Eur / 13,89$","CD",0.875,847244
+674,"Leonard Cohen","Songs from a Room",1,"Leonard Cohen","Songs from a room","10,42Eur / 11,98$","LP",1.0,11749
+675,"Blackalicious","Blazing Arrow",1,"Blackalicious","Blazing arrow (2002)","2,95Eur / 3,39$","CD",0.75,496044
+676,"Nick Cave & the Bad Seeds","Henry's Dream (2010 Remastered Version)",1,"Nick Cave & The Bad Seeds","Henry's dream (1992)","4,25Eur / 4,88$","CD",0.636,39889
+677,"Lou Reed","Coney Island Baby",1,"Lou Reed","Coney island baby (1976)","3,01Eur / 3,46$","CD",0.833,94312
+678,"Red House Painters","Red House Painters I",1,"Red House Painters","Retrospective","8,22Eur / 9,45$","2CD",0.6,638464
+679,"Milton Nascimento","Clube Da Esquina",1,"Milton Nascimento","Clube da Esquina 2","13,7Eur / 15,75$","2CD",0.833,652406
+680,"Liz Phair","Exile In Guyville (Remastered)",1,"Liz Phair","Exile in Guyville (1993)","5,67Eur / 6,52$","CD",0.714,175876
+681,"Sparklehorse","It's A Wonderful Life",1,"Sparklehorse","It's a wonderful life (2001)","6,24Eur / 7,17$","CD",0.833,363813
+682,"Fiona Apple","Tidal",1,"Fiona Apple","Tidal (1996)","5,41Eur / 6,22$","CD",0.75,113544
+683,"Mercury Rev","All Is Dream",1,"Mercury Rev","All is dream (2001)","2,95Eur / 3,39$","CD",0.833,299193
+684,"Tori Amos","Crucify",1,"Tori Amos","Crucify (1992)","2,89Eur / 3,32$","MCD",0.75,185264
+685,"Noel Gallagher's High Flying Birds","Chasing Yesterday",1,"Noel Gallagher's High Flying Birds","Chasing yesterday (10 tracks, 2014, cardsleeve)","4,53Eur / 5,2$","CD",0.636,1077692
+686,"Grant Lee Buffalo","Mighty Joe Moon",1,"Grant Lee Buffalo","Mighty Joe Moon (1994)","2,95Eur / 3,39$","CD",0.857,101770
+687,"John Parish","Dance Hall At Louse Point",1,"John Parish","Dance hall at louse point (1996, & Polly Jean Harvey)","5,29Eur / 6,08$","CD",0.636,100993
+688,"David Sylvian","Brilliant Trees",1,"David Sylvian","Brilliant trees (1984)","7,19Eur / 8,26$","CD",0.8,59786
+689,"Sebadoh","Harmacy",1,"Sebadoh","Harmacy (1996)","6,08Eur / 6,99$","CD",0.667,104316
+690,"Elvis Costello","My Aim Is True",1,"Elvis Costello","My aim is true (1977)","4,46Eur / 5,12$","CD",0.857,2045601
+691,"A.R. Kane",""i"",1,"A.R. Kane","i (1989)","6,18Eur / 7,1$","CD",0.75,439004
+692,"Graham Coxon","Happiness In Magazines",1,"Graham Coxon","Happiness in magazines (2004, digi)","2,93Eur / 3,36$","CD",0.714,555115
+693,"Okkervil River","The Stage Names",1,"Okkervil River","Stage names","2,95Eur / 3,39$","CD",0.8,946842
+694,"White Williams","Smoke",1,"White Williams","Smoke (2008)","0,99Eur / 1,13$","CD",0.75,769813
+695,"Architecture in Helsinki","In Case We Die",1,"Architecture in Helsinki","In case we die (2005)","2,95Eur / 3,39$","CD",0.857,557069
+696,"AC/DC","Back in Black",1,"AC/DC","Back in black (1980/94)","11,99Eur / 13,78$","CD",0.8,561858
+697,"Captain Hollywood Project","Find Another Way",1,"Captain Hollywood Project","Find another way (1995)","1,87Eur / 2,15$","MCD",0.857,67102
+698,"Captain Hollywood Project","Love Is Not Sex",1,"Captain Hollywood Project","Love is not sex (1993)","10,44Eur / 12$","CD",0.875,6406
+699,"Mr. President","We See the Same Sun",1,"Mr. President","We see the same sun (1996)","4,87Eur / 5,6$","CD",0.875,73985
+700,"2 Unlimited","Unlimited Hits & Remixes",1,"2 Unlimited","Hits unlimited (1995)","22,31Eur / 25,65$","CD",0.6,131830
+701,"Corona","The Rhythm of the Night",1,"Corona","Rhythm of the night (#zyx7169)","14,28Eur / 16,42$","MCD",0.833,75595
+702,"TV on the Radio","Dear Science (Bonus Track Version)",1,"TV on the Radio","Dear science (2008)","2,83Eur / 3,25$","CD",0.6,800705
+703,"Doves","Some Cities",1,"Doves","Some cities (2005)","2,95Eur / 3,39$","CD",0.75,470396
+704,"dEUS","The Ideal Crash",1,"Deus","Ideal crash (1999)","2,98Eur / 3,42$","CD",0.6,208504
+705,"Toto","Toto IV",1,"Toto","IV (1982)","16,99Eur / 19,53$","LP",0.667,6646
+706,"Kim Carnes","Mistaken Identity",1,"Kim Carnes","Mistaken identity (1981)","7,65Eur / 8,79$","LP",0.8,31395
+707,"Laura Branigan","The Best of Branigan",1,"Laura Branigan","Best of Branigan (1995)","10,12Eur / 11,63$","CD",0.667,59556
+708,"Yazoo","Upstairs at Eric's",1,"Yazoo","Upstairs at Eric's (1982)","26,73Eur / 30,73$","LP",0.8,5099
+709,"Dexys Midnight Runners","Come On Eileen / Dubious",1,"Dexy's Midnight Runners","Come on Eileen (1982)","6,1Eur / 7,01$","SL",0.75,20269
+710,"Roy Orbison","Mystery Girl",1,"Roy Orbison","Mystery girl (1989)","13,6Eur / 15,64$","LP",0.8,9163
+711,"Fine Young Cannibals","The Raw And The Cooked",1,"Fine Young Cannibals","Raw & the cooked (1988)","11,91Eur / 13,69$","LP",0.75,14275
+712,"Huey Lewis & The News","Fore!",1,"Huey Lewis & The News","Fore! (1986)","8,07Eur / 9,28$","LP",0.833,1313
+713,"Bruce Springsteen","The River",1,"Bruce Springsteen","River (1980)","5,12Eur / 5,88$","2CD",0.6,111295
+714,"Crowded House","Crowded House",1,"Crowded House","Instinct","1,35Eur / 1,55$","MCD",0.667,88732
+715,"ABBA","Super Trouper",1,"Abba","Super trouper (1980)","3,62Eur / 4,16$","SL",0.75,9921
+716,"Stevie Wonder","Hotter Than July",1,"Stevie Wonder","Hotter than July (1980/2000)","3,08Eur / 3,54$","CD",0.833,566095
+717,"Bruce Springsteen","Born in the U.S.A.",1,"Bruce Springsteen","Born in the USA (1984)","7,54Eur / 8,67$","CD",0.857,9183
+718,"Nena","99 Luftballons",1,"Nena","99 Luftballons (1983)","6,88Eur / 7,91$","SL",0.75,5229
+719,"Men Without Hats","The Safety Dance",1,"Men without Hats","Safety dance (1982)","4,62Eur / 5,31$","SL",0.714,4307
+720,"Peter Gabriel","So (Remastered)",1,"Peter Gabriel","So (AMIGA)","6,43Eur / 7,39$","LP",0.6,102976
+721,"Fleetwood Mac","Tango in the Night (Deluxe Edition)",1,"Fleetwood Mac","Tango in the night (1987)","20,3Eur / 23,34$","LP",0.667,9525
+722,"Wham!","Make It Big",1,"Wham!","Make it big (1984)","26,71Eur / 30,71$","LP",0.8,16641
+723,"Phil Collins","Hello, I Must Be Going",1,"Phil Collins","Hello, I must be going (1982)","11,48Eur / 13,2$","LP",0.875,4632
+724,"Fleetwood Mac","Tango in the Night",1,"Fleetwood Mac","Tango in the night (1987)","20,3Eur / 23,34$","LP",0.857,9525
+725,"Kim Carnes","Bette Davis Eyes",1,"Kim Carnes","Bette Davis eyes (1981)","5,37Eur / 6,17$","SL",0.833,21654
+726,"Bon Jovi","Slippery When Wet (Remastered)",1,"Bon Jovi","Slippery when wet (1986, remastered, bonus)","3,52Eur / 4,04$","CD",0.75,387899
+727,"Journey","Escape",1,"Journey","Escape (1981)","4,98Eur / 5,72$","CD",0.667,52204
+728,"a-ha","Hunting High and Low",1,"A-ha","Hunting high and low (1985)","21,24Eur / 24,42$","LP",0.833,13403
+729,"Ralph McTell","Streets Of London - Best Of",1,"Ralph McTell","Streets of London (UK, #shm926)","0,99Eur / 1,13$","LP",0.625,897646
+730,"Bruce Hornsby","The Way It Is",1,"Bruce Hornsby","Way it is (1986, & The Range)","5,55Eur / 6,38$","CD",0.75,75614
+731,"U2","No Line on the Horizon",1,"U2","No line on the horizon (2009)","2,95Eur / 3,39$","CD",0.857,744716
+732,"Mark Knopfler","Get Lucky",1,"Mark Knopfler","Get lucky (2009)","5,37Eur / 6,17$","CD",0.8,619330
+733,"Village People","YMCA",1,"Village People","Y.m.c.a. (1978/2002)","10,53Eur / 12,1$","CD",0.75,717930
+734,"George Harrison","Live In Japan",1,"George Harrison","Live in Japan (1992)","30,76Eur / 35,37$","2CD",0.833,46226
+735,"Ben Folds Five","Whatever And Ever Amen (Remastered Edition)",1,"Ben Folds Five","Whatever and ever amen (1997)","2,95Eur / 3,39$","CD",0.7,116279
+736,"Tom Vek","We Have Sound",1,"Tom Vek","We have sound (2005)","1,99Eur / 2,28$","CD",0.833,703467
+737,"Annuals","Be He Me",1,"Annuals","Be he me (2007)","0,99Eur / 1,13$","CD",0.8,1015277
+738,"Paul Simon","The Rhythm Of The Saints",1,"Paul Simon","Rhythm of the saints (1990)","3,79Eur / 4,35$","CD",0.857,15623
+739,"Owen Pallett","Heartland",1,"Owen Pallett","Heartland CD (cardsleeve)","1,43Eur / 1,64$","CD",0.6,946253
+740,"Rufus Wainwright","Want Two",1,"Rufus Wainwright","Want two (2005)","2,95Eur / 3,39$","CD",0.8,627627
+741,"Black Marble","A Different Arrangement",1,"Black Marble","A different arrangement (2012, US, digi)","9,5Eur / 10,92$","CD",0.625,1160652
+742,"Billie Holiday","All Or Nothing At All",1,"Billie Holiday","All or nothing at all-Verve story 7","8,05Eur / 9,25$","2CD",0.667,366684
+743,"Lush","Split",1,"Lush","Split (1994)","9,06Eur / 10,41$","CD",0.667,184837
+744,"Simon & Garfunkel","Wednesday Morning, 3 A.M.",1,"Simon & Garfunkel","Wednesday morning, 3 am (1964)","6,38Eur / 7,33$","LP",0.857,16528
+745,"Happy Mondays","Pills 'n' Thrills and Bellyaches",1,"Happy Mondays","Pills 'n' thrills and bellyaches (10 tracks, 1990, EU)","4,59Eur / 5,27$","CD",0.636,106323
+746,"Folk Implosion","Dare to Be Surprised",1,"Folk Implosion","Dare to be surprised (1997)","4,99Eur / 5,73$","CD",0.857,800661
+747,"Boss Hog","Whiteout",1,"Boss Hog","Whiteout (1999)","1,59Eur / 1,82$","MCD",0.75,183824
+748,"Secret Machines","Now Here Is Nowhere",1,"Secret Machines","Now here is nowhere (2004)","1,99Eur / 2,28$","CD",0.857,657778
+749,"Misfits","American Psycho",1,"Misfits","American psycho (1997)","6,07Eur / 6,98$","CD",0.75,105182
+750,"Kate Bush","The Sensual World",1,"Kate Bush","Sensual world (1989)","5,79Eur / 6,65$","CD",0.667,34593
+751,"The Body","No One Deserves Happiness",1,"The Body","No One Deserves Happiness (2016, 10 tracks, digi)","6,32Eur / 7,26$","CD",0.6,1136958
+752,"Lambchop","OH (Ohio)",1,"Lambchop","Oh (ohio; 2008)","2,95Eur / 3,39$","CD",0.75,582571
+753,"Japandroids","Near To The Wild Heart Of Life",1,"Japandroids","Near to the wild heart of life (Promo, 1 track, 2017)","0,99Eur / 1,13$","MCD",0.667,2027892
+754,"Pity Sex","White Hot Moon",1,"Pity Sex","White hot moon (2016, US, digi)","5,6Eur / 6,44$","CD",0.625,1132934
+755,"Bruce Springsteen","Darkness on the Edge of Town",1,"Bruce Springsteen","Darkness on the edge of town (1978)","2,95Eur / 3,39$","CD",0.889,60962
+756,"Rose Royce","Car Wash (Soundtrack)",1,"Rose Royce","Car wash '98","1,95Eur / 2,24$","MCD",0.667,194129
+757,"Chic","C'est Chic",1,"Chic","C'est chic (1978)","10,21Eur / 11,74$","LP",0.667,15067
+758,"Roxy Music","For Your Pleasure",1,"Roxy Music","For your pleasure (1973)","5,74Eur / 6,6$","CD",0.833,80616
+759,"Dinosaur Jr.","Give a Glimpse of What Yer Not",1,"Dinosaur jr.","Give a Glimpse of What Yer Not (2016, 11 tracks, digi)","10,29Eur / 11,83$","CD",0.692,1136151
+760,"Spoon","Gimme Fiction",1,"Spoon","Gimme fiction (2005)","3,59Eur / 4,12$","2CD",0.75,632108
+761,"Clap Your Hands Say Yeah","Some Loud Thunder",1,"Clap Your Hands Say Yeah","Some loud thunder (2007)","0,99Eur / 1,13$","CD",0.889,738779
+762,"Simon & Garfunkel","The Graduate",1,"Simon & Garfunkel","Graduate (soundtrack)","3,98Eur / 4,57$","LP",0.6,32935
+763,"Flying Saucer Attack","Flying Saucer Attack",1,"Flying Saucer Attack","Chorus","9,5Eur / 10,92$","CD",0.75,1133783
+764,"Hot Snakes","Audit In Progress",1,"Hot Snakes","Audit in progress (2004, UK)","5,6Eur / 6,44$","CD",0.714,1132810
+765,"Kanye West","My Beautiful Dark Twisted Fantasy (Explicit Version)",1,"Kanye West","My beautiful dark twisted fantasy (2010)","11,09Eur / 12,75$","CD",0.7,642596
+766,"Patti Smith","Horses",1,"Patti Smith","Horses (1975)","33,76Eur / 38,82$","LP",0.75,10755
+767,"Simon & Garfunkel","Bookends",1,"Simon & Garfunkel","Bookends","6,78Eur / 7,79$","LP",1.0,14513
+768,"Paul Simon","The Paul Simon Songbook",1,"Paul Simon","Songbook","8,75Eur / 10,06$","LP",0.75,539700
+769,"Yacht","Shangri-La",1,"Yacht","Shangri-La (2011)","0,99Eur / 1,13$","CD",0.667,884786
+770,"Childhood","Lacuna",1,"Childhood","Lacuna","0,99Eur / 1,13$","CD",1.0,1043599
+771,"Roxy Music","Manifesto",1,"Roxy Music","Manifesto (1979)","8,35Eur / 9,6$","LP",0.75,16398
+772,"TV on the Radio","Desperate Youth, Bloodthirsty Babes",1,"TV on the Radio","Desperate youth, blood thirsty babes (2004)","2,95Eur / 3,39$","CD",0.636,847254
+773,"Hot Hot Heat","Future Breeds",1,"Hot Hot Heat","Future breeds (2010, card)","7,64Eur / 8,78$","CD",0.667,1144374
+774,"Bob Dylan","Highway 61 Revisited",1,"Bob Dylan","Highway 61 revisited (1965/2003)","4,37Eur / 5,02$","CD",0.833,717716
+775,"Johnny Cash","Christmas Hits",1,"Johnny Cash","Greatest hits","4,41Eur / 5,07$","LP",0.6,905698
+776,"Johnny Cash","Johnny Cash - 16 Biggest Hits",1,"Johnny Cash","16 biggest hits (1999, CA)","1,99Eur / 2,28$","CD",0.714,1102670
+777,"Ramones","All The Best",1,"Ramones","All the best (2012, EMI)","11,5Eur / 13,22$","2CD",0.667,2051040
+778,"Kasabian","Empire",1,"Kasabian","Empire (2006)","1,99Eur / 2,28$","CD",0.667,510258
+779,"Phoenix","Long Distance Call",1,"Phoenix","Long distance call (2006)","1,95Eur / 2,24$","MCD",0.8,550016
+780,"Public Enemy","He Got Game",1,"Public Enemy","He got game (1998)","1,95Eur / 2,24$","MCD",0.833,141904
+781,"Oasis","Don't Look Back In Anger (Single)",1,"Oasis","Don't look back in anger (4 tracks, 1995)","4,95Eur / 5,69$","MCD",0.6,115041
+782,"Emiliana Torrini","Me And Armini",1,"Emiliana Torrini","Me and Armini (2008)","2,97Eur / 3,41$","2CD",0.833,689064
+783,"Razorlight","Slipway Fires",1,"Razorlight","Slipway fires (2008)","1,99Eur / 2,28$","CD",0.75,608308
+784,"Lily Allen","It's Not Me, It's You",1,"Lily Allen","It's not me, it's you (12 tracks, 2009)","2,83Eur / 3,25$","CD",0.667,703053
+785,"Kate Nash","Made of Bricks",1,"Kate Nash","Made of bricks (2007)","2,95Eur / 3,39$","CD",0.833,572521
+786,"Reverend and the Makers","The State Of Things",1,"Reverend and the Makers","State of things (2007)","0,99Eur / 1,13$","CD",0.875,554956
+787,"Shitdisco","Kingdom Of Fear",1,"Shitdisco","Kingdom of fear","0,99Eur / 1,13$","CD",1.0,689719
+788,"Jamie T","Panic Prevention",1,"Jamie. T","Panic prevention (2007)","4,05Eur / 4,65$","CD",0.8,789012
+789,"Rise Against","Siren Song of the Counter Culture",1,"Rise Against","Siren song of the counter culture (2004)","3,7Eur / 4,25$","CD",0.889,766043
+790,"Mando Diao","Never Seen The Light Of Day",1,"Mando Diao","Never seen the light of day (2007)","1,99Eur / 2,28$","CD",0.889,773844
+791,"Groove Armada","Soundboy Rock",1,"Groove Armada","Soundboy rock (2007)","1,99Eur / 2,28$","CD",0.8,1059935
+792,"Kiki","Run With Me",1,"Kiki","Run with me","0,99Eur / 1,13$","CD",1.0,674534
+793,"Shantel","Bucovina Club",1,"Shantel","Bucovina club (2003)","2,83Eur / 3,25$","CD",0.75,807247
+794,"Snow Patrol","Final Straw",1,"Snow Patrol","Final straw (2004)","3,9Eur / 4,48$","CD",0.8,487075
+795,"Stone Sour","Come What(ever) May",1,"Stone Sour","Come (what)ever may (2006)","3,45Eur / 3,96$","CD",0.833,596694
+796,"Dave Clarke","Archive One",1,"Dave Clarke","Archive one","8,51Eur / 9,78$","CD",1.0,110721
+797,"Sex Pistols","Never Mind the Bollocks Here's the Sex Pistols",1,"Sex Pistols","Never mind the Bollocks, here's the Sex Pistols (1977, RI)","3,86Eur / 4,43$","CD",0.778,18381
