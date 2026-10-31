@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Porovná Last.fm export scrobblov s katalógom Fun Records (formát cNNN.txt).
+"""Porovná Last.fm export scrobblov s katalógom Fun Records (formát cNNN.txt), CD aj LP.
 
 Použitie: python3 match_c325.py <katalog.txt> <scrobbles.csv> <vystup.json>
 """
@@ -10,7 +10,8 @@ import sys
 import unicodedata
 from collections import Counter, defaultdict
 
-CD_TYPES = {"CD", "2CD", "3CD", "4CD", "5CD", "XCD"}
+FORMATS = {"CD", "2CD", "3CD", "4CD", "5CD", "XCD",
+           "LP", "2LP", "3LP", "4LP", "5LP", "XLP"}
 TOP_ARTISTS = 150
 MIN_ALBUM_SCROBBLES = 20
 
@@ -74,7 +75,7 @@ def main(cat_path, csv_path, out_path):
     with open(cat_path, encoding="cp1252", errors="replace") as f:
         for line in f:
             parts = line.rstrip("\r\n").split("---")
-            if len(parts) < 5 or parts[1].strip() not in CD_TYPES:
+            if len(parts) < 5 or parts[1].strip() not in FORMATS:
                 continue
             a = norm(parts[2])
             if a not in wanted_artists:
@@ -90,60 +91,47 @@ def main(cat_path, csv_path, out_path):
                 "url": f"https://www.funrecords.de/en/catalogue/item/{item_id}-{slug(fr_title)}-{slug(fr_artist)}/",
             })
 
-    # 1) Top albumy, ktoré sú v ponuke
-    album_rows = []
-    for (a, t), n in album_cnt.most_common():
-        if n < MIN_ALBUM_SCROBBLES or not t:
-            continue
-        hits = []
-        for it in catalogue.get(a, []):
-            key = it["title_key"]
-            if key == t or (key in ("same", "s t", "self titled") and t == a):
-                hits.append(it)
-        if not hits:
-            continue
-        hits.sort(key=lambda x: (x["price"] is None, x["price"]))
-        best = hits[0]
-        album_rows.append({
-            "album_rank": album_rank[(a, t)],
-            "artist": artist_name[a],
-            "album": album_name[(a, t)],
-            "scrobbles": n,
-            "artist_scrobbles": artist_cnt[a],
-            "offers": len(hits),
-            **{f"fr_{k}": v for k, v in best.items() if k != "title_key"},
-        })
-
-    matched_ids = {r["fr_id"] for r in album_rows}
-    matched_keys = {(norm(r["artist"]), strip_album(r["album"])) for r in album_rows}
-
-    # 2) Ďalšie CD od top interpretov (albumy, ktoré veľa nepočúvaš alebo ich nepoznáš)
-    artist_rows = []
-    for a, n in artist_cnt.most_common(TOP_ARTISTS):
-        for it in catalogue.get(a, []):
-            if it["id"] in matched_ids or (a, it["title_key"]) in matched_keys:
+    # Každá ponuka (CD/LP) od interpreta z knižnice, ak ide o počúvaný album
+    # alebo o interpreta z top N.
+    top_set = {a for a, _ in artist_cnt.most_common(TOP_ARTISTS)}
+    items = []
+    for a, offers in catalogue.items():
+        for it in offers:
+            key = (a, it["title_key"])
+            if it["title_key"] in ("same", "s t", "self titled"):
+                key = (a, a)
+            n = album_cnt.get(key, 0)
+            if n >= MIN_ALBUM_SCROBBLES:
+                kind = "album"
+            elif a in top_set:
+                kind = "artist"
+            else:
                 continue
-            artist_rows.append({
-                "artist_rank": artist_rank[a],
+            items.append({
+                "kind": kind,
                 "artist": artist_name[a],
-                "artist_scrobbles": n,
-                "album_scrobbles": album_cnt.get((a, it["title_key"]), 0),
+                "artist_rank": artist_rank[a],
+                "artist_scrobbles": artist_cnt[a],
+                "lastfm_album": album_name.get(key) if n else None,
+                "album_scrobbles": n,
                 **{f"fr_{k}": v for k, v in it.items() if k != "title_key"},
             })
+    items.sort(key=lambda r: (-r["album_scrobbles"], r["artist_rank"], r["fr_price"] or 0))
 
     top_artists = [
         {"rank": artist_rank[a], "artist": artist_name[a], "scrobbles": n,
-         "cd_in_catalogue": len(catalogue.get(a, []))}
+         "offers_in_catalogue": len(catalogue.get(a, []))}
         for a, n in artist_cnt.most_common(TOP_ARTISTS)
     ]
 
     with open(out_path, "w", encoding="utf-8") as f:
-        json.dump({"albums": album_rows, "artist_cds": artist_rows,
+        json.dump({"items": items,
                    "top_artists": top_artists,
                    "stats": {"scrobbles": sum(artist_cnt.values()),
                              "artists": len(artist_cnt), "albums": len(album_cnt)}},
                   f, ensure_ascii=False, indent=1)
-    print(f"albums matched: {len(album_rows)}, artist CDs: {len(artist_rows)}")
+    kinds = Counter((r["kind"], "LP" if "LP" in r["fr_type"] else "CD") for r in items)
+    print(f"items: {len(items)}", dict(kinds))
 
 
 if __name__ == "__main__":

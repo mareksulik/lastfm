@@ -1,0 +1,275 @@
+<title>Fun Records pre shulo</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky filter strip over one dense, sortable catalogue table; cart drawer on the right (below on phones). */
+:root {
+  --bg: #f4f5f7; --surface: #ffffff; --fg: #16181d; --muted: #5d6370; --line: #dde0e6;
+  --accent: #155e75; --accent-soft: #e1eff3; --lp: #7a3e9d; --lp-soft: #f1e7f7; --sel: #fff6d6;
+  --f-display: "IBM Plex Sans Condensed", "Arial Narrow", sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121419; --surface: #1a1d24; --fg: #e8eaee; --muted: #9aa1ad; --line: #2c313b;
+  --accent: #5fb7cf; --accent-soft: #173039; --lp: #c99ae4; --lp-soft: #2e2238; --sel: #3a3317; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121419; --surface: #1a1d24; --fg: #e8eaee; --muted: #9aa1ad; --line: #2c313b;
+  --accent: #5fb7cf; --accent-soft: #173039; --lp: #c99ae4; --lp-soft: #2e2238; --sel: #3a3317; color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--fg); font: 14px/1.45 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 40px }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg) }
+.wrap { max-width: 1400px; margin: 0 auto; display: grid; gap: 16px }
+header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 18px }
+h1 { font: 700 28px/1.1 var(--f-display); margin: 0; letter-spacing: -.01em; text-wrap: balance }
+.src { color: var(--muted); font-size: 13px }
+.src b { color: var(--fg); font-weight: 500 }
+
+.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg);
+  padding-block: 10px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: end }
+.f { display: grid; gap: 3px; min-width: 0 }
+.f > label, .f > .lab { font: 600 11px/1 var(--f-display); text-transform: uppercase; letter-spacing: .06em; color: var(--muted) }
+input[type=search], input[type=number], select {
+  font: inherit; color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; height: 34px }
+input[type=search] { width: 220px }
+input[type=number] { width: 86px }
+select { max-width: 220px }
+input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--surface); height: 34px }
+.seg button { font: 500 13px var(--f-body); color: var(--muted); background: none; border: 0; padding: 0 11px; cursor: pointer; border-left: 1px solid var(--line) }
+.seg button:first-child { border-left: 0 }
+.seg button[aria-pressed=true] { background: var(--accent-soft); color: var(--accent); font-weight: 600 }
+.chk { display: flex; align-items: center; gap: 6px; height: 34px; font-size: 13px; cursor: pointer }
+.btn { font: 500 13px var(--f-body); height: 34px; padding: 0 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); cursor: pointer }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--surface) }
+
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 16px; align-items: start }
+@media (max-width: 900px) { .main { grid-template-columns: minmax(0, 1fr) } input[type=search] { width: 100% } .f.grow { flex: 1 1 100% } }
+
+.summary { display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: baseline; padding: 0 2px 8px; color: var(--muted) }
+.summary strong { color: var(--fg); font: 600 18px var(--f-display); font-variant-numeric: tabular-nums }
+.tablebox { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px }
+table { border-collapse: collapse; width: 100%; min-width: 760px }
+th, td { padding: 7px 10px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top }
+th { font: 600 11px/1.2 var(--f-display); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); background: var(--surface); position: sticky; top: 0; white-space: nowrap }
+th.sort { cursor: pointer; user-select: none }
+th.sort:hover { color: var(--fg) }
+th .ar { display: inline-block; width: 1em; color: var(--accent) }
+td.num, th.num { text-align: right }
+td.num { font-family: var(--f-mono); font-variant-numeric: tabular-nums; font-size: 13px; white-space: nowrap }
+th.num { white-space: normal; width: 1%; min-width: 74px }
+tr:last-child td { border-bottom: 0 }
+tr.on td { background: var(--sel) }
+.artist { font-weight: 600 }
+.rank { font: 500 11px var(--f-mono); color: var(--muted); margin-left: 4px }
+.title { display: block }
+.lfm { display: block; color: var(--muted); font-size: 12px }
+.fmt { display: inline-block; font: 600 11px/1 var(--f-mono); padding: 4px 6px; border-radius: 4px; background: var(--accent-soft); color: var(--accent) }
+.fmt.lp { background: var(--lp-soft); color: var(--lp) }
+.kind { font-size: 11px; color: var(--muted); white-space: nowrap }
+a.go { color: var(--accent); font-weight: 500; text-decoration: none; white-space: nowrap }
+a.go:hover { text-decoration: underline }
+.id { font: 12px var(--f-mono); color: var(--muted) }
+input[type=checkbox] { width: 16px; height: 16px; accent-color: var(--accent); cursor: pointer }
+.empty { padding: 30px; text-align: center; color: var(--muted) }
+
+aside { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px; display: grid; gap: 10px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 80px) }
+@media (max-width: 900px) { aside { position: static } }
+aside h2 { font: 700 18px var(--f-display); margin: 0 }
+.cartsum { display: flex; justify-content: space-between; font-variant-numeric: tabular-nums }
+.cartsum strong { font: 600 20px var(--f-display) }
+.cartlist { list-style: none; margin: 0; padding: 0; max-height: 46vh; overflow-y: auto; display: grid; gap: 6px }
+.cartlist li { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 8px; align-items: start; font-size: 13px; border-bottom: 1px solid var(--line); padding-bottom: 6px }
+.cartlist li span:first-child { min-width: 0; overflow-wrap: anywhere }
+.cartlist .p { font-family: var(--f-mono); font-variant-numeric: tabular-nums }
+.x { background: none; border: 0; color: var(--muted); cursor: pointer; font-size: 16px; line-height: 1; padding: 0 2px }
+.ids { font: 12px var(--f-mono); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 8px; overflow-wrap: anywhere; user-select: all; min-height: 34px }
+.note { font-size: 12px; color: var(--muted); margin: 0 }
+.row { display: flex; gap: 8px; flex-wrap: wrap }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Fun Records pre shulo</h1>
+    <span class="src">Katalóg <b>č. 325</b> · Last.fm export do <b>28. 10. 2025</b> · použité CD a LP, ceny bez poštovného</span>
+  </header>
+
+  <div class="filters" role="search">
+    <div class="f grow"><label for="q">Hľadať</label><input id="q" type="search" placeholder="Interpret alebo album"></div>
+    <div class="f"><span class="lab">Zdroj</span>
+      <div class="seg" id="kind">
+        <button type="button" data-v="" aria-pressed="true">Všetko</button>
+        <button type="button" data-v="a" aria-pressed="false">Moje albumy</button>
+        <button type="button" data-v="r" aria-pressed="false">Ďalšie od top interpretov</button>
+      </div></div>
+    <div class="f"><span class="lab">Formát</span>
+      <div class="seg" id="fmt">
+        <button type="button" data-v="" aria-pressed="true">CD aj LP</button>
+        <button type="button" data-v="CD" aria-pressed="false">CD</button>
+        <button type="button" data-v="LP" aria-pressed="false">LP</button>
+      </div></div>
+    <div class="f"><label for="artist">Interpret</label><select id="artist"><option value="">Všetci</option></select></div>
+    <div class="f"><label for="maxp">Max. cena €</label><input id="maxp" type="number" min="0" step="0.5" placeholder="bez limitu"></div>
+    <div class="f"><label for="mins">Min. scrobblov albumu</label><input id="mins" type="number" min="0" step="10" placeholder="0"></div>
+    <label class="chk"><input id="cheap" type="checkbox"> Len najlacnejšia ponuka albumu</label>
+    <button type="button" class="btn" id="reset">Zrušiť filtre</button>
+  </div>
+
+  <div class="main">
+    <section style="min-width:0">
+      <div class="summary"><span><strong id="cnt">0</strong> položiek</span><span>spolu <strong id="sum">0 €</strong></span><span id="hint"></span></div>
+      <div class="tablebox">
+        <table>
+          <thead><tr>
+            <th aria-label="Do košíka"></th>
+            <th class="sort" data-k="artist">Interpret<span class="ar"></span></th>
+            <th class="sort" data-k="title">Položka na Fun Records<span class="ar"></span></th>
+            <th class="sort" data-k="type">Formát<span class="ar"></span></th>
+            <th class="sort num" data-k="as">Scrobbly albumu<span class="ar"></span></th>
+            <th class="sort num" data-k="rs">Scrobbly interpreta<span class="ar"></span></th>
+            <th class="sort num" data-k="price">Cena<span class="ar"></span></th>
+            <th>Odkaz</th>
+          </tr></thead>
+          <tbody id="tb"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside aria-labelledby="carth">
+      <h2 id="carth">Košík</h2>
+      <div class="cartsum"><span id="ccnt">0 položiek</span><strong id="csum">0,00 €</strong></div>
+      <ul class="cartlist" id="clist"></ul>
+      <p class="note" id="cempty">Zaškrtni položky v tabuľke. Košík si pamätá tento prehliadač.</p>
+      <div class="f"><span class="lab">Čísla položiek na objednávku</span><div class="ids" id="cids">–</div></div>
+      <div class="row">
+        <button type="button" class="btn primary" id="copy">Kopírovať čísla</button>
+        <button type="button" class="btn" id="cfilter">Zobraziť len košík</button>
+        <button type="button" class="btn" id="cclear">Vyprázdniť</button>
+      </div>
+      <p class="note">Ceny sú z katalógu č. 325. Tovar je použitý a sklad sa mení, dostupnosť over cez odkaz.</p>
+    </aside>
+  </div>
+</div>
+
+<script>
+const RAW = /*DATA*/[];
+const BASE = "https://www.funrecords.de/en/catalogue/item/";
+const items = RAW.map(r => ({ kind: r[0], artist: r[1], rank: r[2], rs: r[3], lfm: r[4], as: r[5], id: r[6],
+  type: r[7], fmt: r[7].includes("LP") ? "LP" : "CD", title: r[8], price: r[9], url: BASE + r[10] + "/",
+  key: r[1] + "\u0000" + (r[4] || r[8]) }));
+const byId = new Map(items.map(i => [i.id, i]));
+const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+items.forEach(i => i.hay = fold(i.artist + " " + i.title + " " + i.lfm));
+const eur = n => n == null ? "–" : n.toLocaleString("sk-SK", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " €";
+const nf = n => n.toLocaleString("sk-SK");
+const $ = id => document.getElementById(id);
+
+const store = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d } catch { return d } },
+                set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)) } catch {} } };
+let cart = new Set(store.get("fr-cart", []).filter(id => byId.has(id)));
+const st = { q: "", kind: "", fmt: "", artist: "", maxp: null, mins: null, cheap: false, onlyCart: false, sort: "as", dir: -1 };
+
+// Interpreti podľa poradia na Last.fm
+const artists = [...new Map(items.map(i => [i.artist, i.rank])).entries()].sort((a, b) => a[1] - b[1]);
+$("artist").insertAdjacentHTML("beforeend", artists.map(([a, r]) => `<option value="${esc(a)}">${r}. ${esc(a)}</option>`).join(""));
+
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])) }
+
+function filtered() {
+  const q = fold(st.q.trim());
+  let out = items.filter(i =>
+    (!q || q.split(/\s+/).every(w => i.hay.includes(w))) &&
+    (!st.kind || i.kind === st.kind) &&
+    (!st.fmt || i.fmt === st.fmt) &&
+    (!st.artist || i.artist === st.artist) &&
+    (st.maxp == null || (i.price != null && i.price <= st.maxp)) &&
+    (st.mins == null || i.as >= st.mins) &&
+    (!st.onlyCart || cart.has(i.id)));
+  if (st.cheap) {
+    const best = new Map();
+    for (const i of out) { const k = i.key + "\u0000" + (st.fmt || ""); const b = best.get(k);
+      if (!b || (i.price ?? 1e9) < (b.price ?? 1e9)) best.set(k, i) }
+    out = out.filter(i => best.get(i.key + "\u0000" + (st.fmt || "")) === i);
+  }
+  const k = st.sort, d = st.dir;
+  out.sort((a, b) => {
+    let x = a[k], y = b[k];
+    if (typeof x === "string") return d * x.localeCompare(y, "sk") || a.rank - b.rank;
+    x = x ?? -1; y = y ?? -1;
+    return d * (x - y) || a.rank - b.rank || (a.price ?? 0) - (b.price ?? 0);
+  });
+  return out;
+}
+
+function render() {
+  const rows = filtered();
+  $("cnt").textContent = nf(rows.length);
+  $("sum").textContent = eur(rows.reduce((s, i) => s + (i.price || 0), 0));
+  $("hint").textContent = st.onlyCart ? "Zobrazený je len košík." : "";
+  const tb = $("tb");
+  if (!rows.length) { tb.innerHTML = `<tr><td colspan="8" class="empty">Filtrom nezodpovedá žiadna položka. Uvoľni niektorý filter.</td></tr>`; }
+  else tb.innerHTML = rows.map(i => `<tr class="${cart.has(i.id) ? "on" : ""}">
+    <td><input type="checkbox" data-id="${i.id}" ${cart.has(i.id) ? "checked" : ""} aria-label="Do košíka: ${esc(i.artist)} – ${esc(i.title)}"></td>
+    <td><span class="artist">${esc(i.artist)}</span><span class="rank">#${i.rank}</span>
+        <span class="lfm kind">${i.kind === "a" ? "počúvaný album" : "top interpret"}</span></td>
+    <td><span class="title">${esc(i.title)}</span>${i.lfm ? `<span class="lfm">Last.fm: ${esc(i.lfm)}</span>` : ""}</td>
+    <td><span class="fmt ${i.fmt === "LP" ? "lp" : ""}">${esc(i.type)}</span></td>
+    <td class="num">${i.as ? nf(i.as) : "–"}</td>
+    <td class="num">${nf(i.rs)}</td>
+    <td class="num">${eur(i.price)}</td>
+    <td><a class="go" href="${i.url}" target="_blank" rel="noopener">Otvoriť ↗</a><span class="lfm id">č. ${i.id}</span></td></tr>`).join("");
+  document.querySelectorAll("th.sort").forEach(th => th.querySelector(".ar").textContent = th.dataset.k === st.sort ? (st.dir < 0 ? "↓" : "↑") : "");
+  renderCart();
+}
+
+function renderCart() {
+  const list = [...cart].map(id => byId.get(id)).sort((a, b) => a.rank - b.rank);
+  $("ccnt").textContent = list.length === 1 ? "1 položka" : (list.length >= 2 && list.length <= 4 ? `${list.length} položky` : `${list.length} položiek`);
+  $("csum").textContent = eur(list.reduce((s, i) => s + (i.price || 0), 0));
+  $("cempty").hidden = list.length > 0;
+  $("clist").innerHTML = list.map(i => `<li><span>${esc(i.artist)} – ${esc(i.title)} <span class="fmt ${i.fmt === "LP" ? "lp" : ""}">${esc(i.type)}</span></span>
+    <span class="p">${eur(i.price)}</span><button type="button" class="x" data-rm="${i.id}" aria-label="Odstrániť z košíka">×</button></li>`).join("");
+  $("cids").textContent = list.length ? list.map(i => i.id).join(", ") : "–";
+  $("cfilter").textContent = st.onlyCart ? "Zobraziť všetko" : "Zobraziť len košík";
+  store.set("fr-cart", [...cart]);
+}
+
+function seg(id, key) {
+  const el = $(id);
+  el.addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return;
+    st[key] = b.dataset.v; el.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); });
+}
+seg("kind", "kind"); seg("fmt", "fmt");
+$("q").addEventListener("input", e => { st.q = e.target.value; render() });
+$("artist").addEventListener("change", e => { st.artist = e.target.value; render() });
+$("maxp").addEventListener("input", e => { st.maxp = e.target.value === "" ? null : +e.target.value; render() });
+$("mins").addEventListener("input", e => { st.mins = e.target.value === "" ? null : +e.target.value; render() });
+$("cheap").addEventListener("change", e => { st.cheap = e.target.checked; render() });
+$("reset").addEventListener("click", () => {
+  Object.assign(st, { q: "", kind: "", fmt: "", artist: "", maxp: null, mins: null, cheap: false, onlyCart: false });
+  ["q", "maxp", "mins"].forEach(id => $(id).value = ""); $("artist").value = ""; $("cheap").checked = false;
+  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === ""));
+  render();
+});
+document.querySelectorAll("th.sort").forEach(th => th.addEventListener("click", () => {
+  const k = th.dataset.k;
+  if (st.sort === k) st.dir *= -1; else { st.sort = k; st.dir = ["artist", "title", "type", "price"].includes(k) ? 1 : -1 }
+  render();
+}));
+$("tb").addEventListener("change", e => { const id = +e.target.dataset.id; if (!id) return;
+  e.target.checked ? cart.add(id) : cart.delete(id); e.target.closest("tr").classList.toggle("on", e.target.checked); renderCart(); });
+$("clist").addEventListener("click", e => { const id = +e.target.dataset.rm; if (!id) return; cart.delete(id); render() });
+$("cclear").addEventListener("click", () => { cart.clear(); st.onlyCart = false; render() });
+$("cfilter").addEventListener("click", () => { st.onlyCart = !st.onlyCart; render() });
+$("copy").addEventListener("click", () => {
+  const t = $("cids").textContent, b = $("copy");
+  if (!cart.size) return;
+  const done = () => { b.textContent = "Skopírované"; setTimeout(() => b.textContent = "Kopírovať čísla", 1500) };
+  const fallback = () => { const r = document.createRange(); r.selectNodeContents($("cids")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent = "Označené, stlač Ctrl+C" };
+  try { navigator.clipboard.writeText(t).then(done, fallback) } catch { fallback() }
+});
+render();
+</script>
